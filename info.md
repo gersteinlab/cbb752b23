@@ -1,0 +1,76 @@
+---
+title: Course Info
+layout: page
+---
+
+## Contact Info
+
+### For general correspondence and questions, please contact us at:
+
+cbb752 (at) gersteinlab.org
+
+### Instructor-in-Charge
+
+| Name | Abbr | Office | Email |
+| --- | --- | --- | --- |
+| Mark Gerstein | MG | Bass 432A | [contact.gerstein.info](http://contact.gerstein.info) |
+
+### Guest Instructors
+
+| Name | Abbr | Office | Email |
+| --- | --- | --- | --- |
+| Corey O'Hern	     | CO | Mason Laboratory	| corey.ohern (at) yale.edu |
+| Jesse Rinehart	 | JR | West Campus	| jesse.rinehart (at) yale.edu |
+| Matthew Simon	     | MDS | West Campus	| matthew.simon (at) yale.edu |
+| Kei Cheung	     | KC | 300 George St	| kei.cheung (at) yale.edu |
+| Martin Renqiang Min| RM |	                | renqiang (at) gmail.com |
+| Dov Greenbaum      | DG |	                | dov.greenbaum (at) gmail.com |
+| Carl Zimmer	     | CZ | 266 Whitney Ave	| carl.zimmer (at) yale.edu |
+
+Consultation is available UPON REQUEST or according to times stipulated by the individual instructors. Prof. Gerstein's office office hours will usually be right after some the classes.
+
+### Teaching Fellows (TF)
+
+| Name | Abbr | Office | Email |
+| --- | --- | --- | --- |
+| Jiahao Gao	| JG  | Bass 437	| jiahao.gao (at) yale.edu |
+| Tianxiao Li   | TXL | Bass 437	| tianxiao.li (at) yale.edu |
+
+## General Course Policy
+
+### First Meeting
+The first lecture will be held on Mon. Feb 1st, 2021. 
+
+### Grading Policy
+We expect that this year the weighting scheme will be to a first approximation:
+
+| Category	| % of Total Grade |
+|---|---|
+| Quiz 1 |	15% |
+| Quiz 2 |	15% |
+| Discussion Section |	20% |
+| Homeworks	| 20% |
+| Final Project	| 30% |
+
+### Recording Policy
+We will follow the default FAS policy on recording where the instructor’s lectures will be recorded, and student contributions in seminars and sections will not be recorded.
+
+### Relevant Yale College Regulations
+
+Students may have questions concerning end-of-term matters. Links to further information about these regulations can be found below:
+- http://catalog.yale.edu/ycps/academic-regulations/reading-period-final-examination-period/
+- http://catalog.yale.edu/ycps/academic-regulations/completion-of-course-work/
+- Brief presentation on how to cite correctly : http://archive.gersteinlab.org/mark/out/log/2012/06.12/cbb752b12/cbb752_cite.ppt
+
+## Plagiarism
+
+Below is a message from the Dean of Yale College about citing your references and sources of information and plagiarism:
+
+*" You need to cite all sources used for papers, including drafts of papers, and repeat the reference each time you use the source in your written work. You need to place quotation marks around any cited or cut-and-pasted materials, IN ADDITION TO footnoting or otherwise marking the source. If you do not quote directly – that is, if you paraphrase – you still need to mark your source each time you use borrowed material. Otherwise you have plagiarized. It is also advisable that you list all sources consulted for the draft or paper in the closing materials, such as a bibliography or roster of sources consulted.
+You may not submit the same paper, or substantially the same paper, in more than one course. If topics for two courses coincide, you need written permission from both instructors before either combining work on two papers or revising an earlier paper for submission to a new course.
+It is the policy of Yale College that all cases of academic dishonesty be reported to the chair of the Executive Committee.... "*
+
+*"  Academic integrity is a core institutional value at Yale. It means, among other things, truth in presentation, diligence and precision in citing
+works and ideas we have used, and acknowledging our collaborations with others. In view of our commitment to maintaining the highest standards of academic integrity, the Graduate School Code of Conduct specifically prohibits the following forms of behavior: cheating on examinations, problem sets and all other forms of assessment; falsification and/or fabrication of data; plagiarism, that is, the failure in a dissertation, essay or other written exercise to acknowledge ideas, research, or language taken from others; and multiple submission of the same work without obtaining explicit written permission from both instructors before the material is submitted. Students found guilty of violations of academic integrity are subject to one or more of the following penalties: written reprimand, probation, suspension (noted on a student’s transcript) or dismissal (noted on a student’s transcript). "*
+
+Also, it might be of interest to people, to look at this [recent article regarding academic dishonesty](http://www.yaledailynews.com/news/2012/sep/11/blurring-cheating-collaboration/).
