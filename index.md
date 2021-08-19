@@ -2,7 +2,7 @@
 
 hello there.
 
-####### VERY BOLD THING!! <H1>head</H1>
+####### VERY BOLD THING!! ''''what''''
 
 Rapid developments in bio- and information- technology and are changing the way that biomedical scientists interact with data. Traditionally, data were the end result of laborious experimentation, and their interpretation mostly involved careful thought and background knowledge. Today, data are increasingly generated much earlier in the scientific workflow and are much larger in scale. Also, before the data can be interpreted, extensive computational processing is often necessary. Thus, the data deluge in biomedicine now requires mining and modeling on a large scale - ie biomedical data science.
 
