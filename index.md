@@ -1,6 +1,6 @@
 ## Course Description
 
-hello there
+hello there.
 
 ####### VERY BOLD THING!! <H1>head</H1>
 
