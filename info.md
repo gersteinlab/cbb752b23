@@ -33,7 +33,7 @@ Consultation is available UPON REQUEST or according to times stipulated by the i
 
 | Name | Abbr | Office | Email |
 | --- | --- | --- | --- |
-| Jiahao Gao	| JG  | Bass 437	| jiahao.gao (at) yale.edu |
+| Eric Ni	| EN  | Bass 437	| eric.ni (at) yale.edu |
 | Tianxiao Li   | TXL | Bass 437	| tianxiao.li (at) yale.edu |
 
 ## General Course Policy
@@ -61,6 +61,23 @@ Students may have questions concerning end-of-term matters. Links to further inf
 - http://catalog.yale.edu/ycps/academic-regulations/reading-period-final-examination-period/
 - http://catalog.yale.edu/ycps/academic-regulations/completion-of-course-work/
 - Brief presentation on how to cite correctly : http://archive.gersteinlab.org/mark/out/log/2012/06.12/cbb752b12/cbb752_cite.ppt
+
+## Recommended readings
+
+If you want to get more background for the course, here are some recommendations:
+
+There are many textbooks that you can access through [Yale's e-library](https://elibrary.med.yale.edu/)
+Many of them cover the same material, but these should cover the core background that you need:
+
+On the bio side:
+
+**Essentials of Molecular Biology by Malathi V**
+important: chapters 1-5, 7, 11
+recommended: everything else
+
+**Biochemistry: Essential Concepts by Hardin, Charles**
+chapters 1-6
+
 
 ## Plagiarism
 
