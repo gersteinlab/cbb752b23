@@ -1,9 +1,5 @@
 ## Course Description
 
-hello there.
-
-####### VERY BOLD THING!! <b>what</b>**what**
-
 Rapid developments in bio- and information- technology and are changing the way that biomedical scientists interact with data. Traditionally, data were the end result of laborious experimentation, and their interpretation mostly involved careful thought and background knowledge. Today, data are increasingly generated much earlier in the scientific workflow and are much larger in scale. Also, before the data can be interpreted, extensive computational processing is often necessary. Thus, the data deluge in biomedicine now requires mining and modeling on a large scale - ie biomedical data science.
 
 This course aims to equip students with some of the concepts and skills relevant to biomedical data science, with an emphasis on bioinformatics, a sub-discipline of this broader field, through examples of mining and modeling of genomic and proteomic data. More specifically, bioinformatics encompasses the analysis of gene sequences, macromolecular structures, and functional genomics data on a large scale. It represents a major practical application for modern techniques in data mining and simulation. Specific topics to be covered include sequence alignment, large-scale processing, next-generation sequencing data, comparative genomics, phylogenetics, biological database design, geometric analysis of protein structure, molecular-dynamics simulation, biological networks, mining of functional genomics data sets, and machine learning approaches for data integration.
@@ -56,7 +52,7 @@ Students should have:
 
 These can be fulfilled by: MBB 200 and Mathematics 115 or permission of the instructor.
 
-### Class meterials
+### Class materials
 
 There is no text book for this class. PPT slides will be available after the lectures.
 We recommend *Biochemistry* by Lubert Stryer for biochemistry prerequisite.
@@ -81,7 +77,8 @@ For references, please refer the previous [Quiz Archive](/quiz)
 - There will be equivalent two homework assignments, particularly for MB&B and MCDB students without a programming background. The programming part will be replaced with assignments involving the use of web-based tools or essay questions.
 
 ## Pages from previous years
-- 2021 Spring is the 24th time Bioinformatics has been taught at Yale. Pages for the 23 previous iterations of the class are available. Look at how things evolve!
+- 2022 Spring is the 25th time Bioinformatics has been taught at Yale. Pages for the 24 previous iterations of the class are available. Look at how things evolve!
+- [2021 Spring](http://cbb752b21.gersteinlab.org)
 - [2020 Spring](http://cbb752b20.gersteinlab.org)
 - [2019 Spring](http://cbb752b19.gersteinlab.org)
 - [2018 Spring](http://cbb752b18.gersteinlab.org)
