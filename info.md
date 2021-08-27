@@ -72,10 +72,13 @@ Many of them cover the same material, but these should cover the core background
 On the bio side:
 
 **Essentials of Molecular Biology by Malathi V**
+
 important: chapters 1-5, 7, 11
+
 recommended: everything else
 
 **Biochemistry: Essential Concepts by Hardin, Charles**
+
 chapters 1-6
 
 
