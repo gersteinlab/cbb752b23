@@ -62,14 +62,11 @@ Students may have questions concerning end-of-term matters. Links to further inf
 - http://catalog.yale.edu/ycps/academic-regulations/completion-of-course-work/
 - Brief presentation on how to cite correctly : http://archive.gersteinlab.org/mark/out/log/2012/06.12/cbb752b12/cbb752_cite.ppt
 
-## Recommended readings
+## Useful Background Books & Websites
 
-If you want to get more background for the course, here are some recommendations:
+If you want to get more background for the course, here are some resources. All of the following textbooks you can access online through [Yale's e-library](https://elibrary.med.yale.edu/). Many of them cover the same material, but these should cover the core background that you need:
 
-There are many textbooks that you can access through [Yale's e-library](https://elibrary.med.yale.edu/)
-Many of them cover the same material, but these should cover the core background that you need:
-
-On the bio side:
+### Biology related
 
 **Essentials of Molecular Biology by Malathi V**
 
@@ -80,6 +77,20 @@ recommended: everything else
 **Biochemistry: Essential Concepts by Hardin, Charles**
 
 chapters 1-6
+
+### Programming related
+For the class you can choose to do assignments in either R or python. Here are some resources for both:
+
+**[The Python Tutorial](https://docs.python.org/3/tutorial/)** - Official guide and documentation for Python3.
+
+**[Learn Python with Google Colab](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb)** - An interactive guide to python. Useful if you are familiar with basic programming, but not python language. 
+
+**Learning Python: Powerful Object-Oriented Programming (5th edition) by Mark Lutz**
+
+**The R book (2nd edition) by Michael J. Crawley**
+
+**R for Data Science by Hadley Wickam**
+
 
 
 ## Plagiarism
