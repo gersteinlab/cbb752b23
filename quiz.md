@@ -7,35 +7,41 @@ layout: page
 
 <ul>
 	<li>
+		Spring 2021:
+		<a href="http://cbb752b21.gersteinlab.org/">Main Page</a>,
+        <a href="http://files2.gersteinlab.org/public-docs/2021/03.14/cbb752b21_Quiz1_key.pdf">Quiz 1 key</a>,
+		<a href="http://files2.gersteinlab.org/public-docs/2021/03.26/hw1.pdf">HW1</a>,
+	</li>
+	<li>
 		Spring 2020:
 		<a href="http://cbb752b20.gersteinlab.org/">Main Page</a>,
-        <a href="http://files.gersteinlab.org/public-docs/2020/11.23/cbb752b20_quiz1.pdf">Quiz 1 key</a>,
-		<a href="http://files.gersteinlab.org/public-docs/2020/11.23/cbb752b20_hw1.pdf">HW1</a>,
-		<a href="http://files.gersteinlab.org/public-docs/2020/11.23/cbb752b20_hw2.pdf">HW2</a>
+        <a href="http://files2.gersteinlab.org/public-docs/2020/11.23/cbb752b20_quiz1.pdf">Quiz 1 key</a>,
+		<a href="http://files2.gersteinlab.org/public-docs/2020/11.23/cbb752b20_hw1.pdf">HW1</a>,
+		<a href="http://files2.gersteinlab.org/public-docs/2020/11.23/cbb752b20_hw2.pdf">HW2</a>
 	</li>
-    <li>
+    	<li>
 		Spring 2019:
 		<a href="http://cbb752b19.gersteinlab.org/">Main Page</a>,
-        <a href="http://files.gersteinlab.org/public-docs/2019/12.05/cbb752b19_quiz_archive/cbb752b19_quiz1_wSoln.docx">Quiz 1 key</a>,
-        <a href="http://files.gersteinlab.org/public-docs/2020/04.07/cbb752b19_quiz2.docx">Quiz 2</a>,
-		<a href="http://files.gersteinlab.org/public-docs/2019/12.05/cbb752b19_quiz_archive/cbb752b19_hw1.pdf">HW1</a>,
-		<a href="http://files.gersteinlab.org/public-docs/2019/12.05/cbb752b19_quiz_archive/cbb752b19_hw2.pdf">HW2</a>
+        <a href="http://files2.gersteinlab.org/public-docs/2019/12.05/cbb752b19_quiz_archive/cbb752b19_quiz1_wSoln.docx">Quiz 1 key</a>,
+        <a href="http://files2.gersteinlab.org/public-docs/2020/04.07/cbb752b19_quiz2.docx">Quiz 2</a>,
+		<a href="http://files2.gersteinlab.org/public-docs/2019/12.05/cbb752b19_quiz_archive/cbb752b19_hw1.pdf">HW1</a>,
+		<a href="http://files2.gersteinlab.org/public-docs/2019/12.05/cbb752b19_quiz_archive/cbb752b19_hw2.pdf">HW2</a>
 	</li>
 	<li>
 		Spring 2018:
 		<a href="http://cbb752b18.gersteinlab.org/">Main Page</a>,
-		<a href="http://files.gersteinlab.org/public-docs/2018/10.05/cbb752b18/cbb752b18_quiz1.docx">Quiz 1</a>,
-		<a href="http://files.gersteinlab.org/public-docs/2018/10.05/cbb752b18/cbb752b18_quiz1_key.docx">Quiz 1 Key</a>,
-		<a href="http://files.gersteinlab.org/public-docs/2018/10.05/cbb752b18/cbb752b18_quiz2.docx">Quiz 2</a>,
-		<a href="http://files.gersteinlab.org/public-docs/2018/10.05/cbb752b18/cbb752b18_quiz2_key.docx">Quiz 2 Key</a>		
+		<a href="http://files2.gersteinlab.org/public-docs/2018/10.05/cbb752b18/cbb752b18_quiz1.docx">Quiz 1</a>,
+		<a href="http://files2.gersteinlab.org/public-docs/2018/10.05/cbb752b18/cbb752b18_quiz1_key.docx">Quiz 1 Key</a>,
+		<a href="http://files2.gersteinlab.org/public-docs/2018/10.05/cbb752b18/cbb752b18_quiz2.docx">Quiz 2</a>,
+		<a href="http://files2.gersteinlab.org/public-docs/2018/10.05/cbb752b18/cbb752b18_quiz2_key.docx">Quiz 2 Key</a>		
 	</li>
 	<li>
 		Spring 2017:
 		<a href="http://cbb752b17.gersteinlab.org/">Main Page</a>,
-		<a href="http://files.gersteinlab.org/public-docs/2018/10.09/cbb752b17/cbb752b17_hw1.pdf">HW 1</a>,
-		<a href="http://files.gersteinlab.org/public-docs/2018/10.09/cbb752b17/cbb752b17_hw2.tar.gz">HW 2</a>,
-		<a href="http://files.gersteinlab.org/public-docs/2018/10.09/cbb752b17/cbb752b17_midterm.pdf">Midterm</a>,
-		<a href="http://files.gersteinlab.org/public-docs/2018/10.09/cbb752b17/cbb752b17_final.docx">Final</a>
+		<a href="http://files2.gersteinlab.org/public-docs/2018/10.09/cbb752b17/cbb752b17_hw1.pdf">HW 1</a>,
+		<a href="http://files2.gersteinlab.org/public-docs/2018/10.09/cbb752b17/cbb752b17_hw2.tar.gz">HW 2</a>,
+		<a href="http://files2.gersteinlab.org/public-docs/2018/10.09/cbb752b17/cbb752b17_midterm.pdf">Midterm</a>,
+		<a href="http://files2.gersteinlab.org/public-docs/2018/10.09/cbb752b17/cbb752b17_final.docx">Final</a>
 	</li>
 	<li>
 		Spring 2016:
