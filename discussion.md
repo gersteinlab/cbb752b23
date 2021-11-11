@@ -40,7 +40,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 1, 1/28, Zoom (First Discussion Sessions)
+### Session 1, 1/28, BASS405 for both sessions (First Discussion Sessions)
 
 #### Topic
 * Next-Gen Sequencing and database
@@ -51,7 +51,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 2, 2/4, Zoom
+### Session 2, 2/4, BASS405 for both sessions
 
 #### Topic
 * Proteomics
@@ -62,7 +62,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 3, 2/11, Zoom
+### Session 3, 2/11, BASS405 for both sessions
 
 #### Topic
 * Debate I
@@ -76,7 +76,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 4, 2/18, Zoom
+### Session 4, 2/18, BASS405 for both sessions
 
 #### Topic
 * Help session on Quiz 1 - TFs prepare materials on SW alignments and Q&A session
@@ -88,7 +88,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 5, 2/25, Zoom
+### Session 5, 2/25, BASS405 for both sessions
 
 #### Topic
 * Debate II - Phylogenetics
@@ -99,7 +99,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 6, 3/4, Zoom
+### Session 6, 3/4, BASS405 for both sessions
 
 
 #### Topic
@@ -111,7 +111,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 7, 4/1, Zoom
+### Session 7, 4/1, BASS405 for both sessions
 
 
 #### Topic
@@ -124,7 +124,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 8, 4/8, Zoom
+### Session 8, 4/8, BASS405 for both sessions
 
 #### Topic
 Debate III - Cancer incidence
@@ -140,7 +140,7 @@ The following two are short comments on the above paper. You should read these c
 * The simple math that explains why you may (or may not) get cancer [[Link]](http://www.sciencemag.org/news/2015/01/simple-math-explains-why-you-may-or-may-not-get-cancer)
 ---
 
-### Session 9, 4/15, Zoom
+### Session 9, 4/15, BASS405 for both sessions
 
 #### Topic
 * Protein structure and biophysics
@@ -152,7 +152,7 @@ The following two are short comments on the above paper. You should read these c
 
 ---
 
-### Session 10, 4/22, Zoom
+### Session 10, 4/22, BASS405 for both sessions
 
 #### Topic
 * Help session on HW 2 / final project
