@@ -24,7 +24,6 @@ cbb752 (at) gersteinlab.org
 | Matthew Simon	     | MDS | West Campus	| matthew.simon (at) yale.edu |
 | Kei Cheung	     | KC | 300 George St	| kei.cheung (at) yale.edu |
 | Martin Renqiang Min| RM |	                | renqiang (at) gmail.com |
-| Dov Greenbaum      | DG |	                | dov.greenbaum (at) gmail.com |
 | Carl Zimmer	     | CZ | 266 Whitney Ave	| carl.zimmer (at) yale.edu |
 
 Consultation is available UPON REQUEST or according to times stipulated by the individual instructors. Prof. Gerstein's office office hours will usually be right after some the classes.
