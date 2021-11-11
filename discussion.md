@@ -40,7 +40,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 1, 2/12, Zoom (First Discussion Sessions)
+### Session 1, 1/28, Zoom (First Discussion Sessions)
 
 #### Topic
 * Next-Gen Sequencing and database
@@ -51,7 +51,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 2, 2/19, Zoom
+### Session 2, 2/4, Zoom
 
 #### Topic
 * Proteomics
@@ -62,7 +62,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 3, 2/26, Zoom
+### Session 3, 2/11, Zoom
 
 #### Topic
 * Debate I
@@ -76,7 +76,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 4, 3/5, Zoom
+### Session 4, 2/18, Zoom
 
 #### Topic
 * Help session on Quiz 1 - TFs prepare materials on SW alignments and Q&A session
@@ -88,7 +88,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 5, 3/12, Zoom
+### Session 5, 2/25, Zoom
 
 #### Topic
 * Debate II - Phylogenetics
@@ -99,7 +99,32 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 6, 3/19, Zoom
+### Session 6, 3/4, Zoom
+
+
+#### Topic
+* Immune system modelling and dynamics
+
+#### Reading Assignment
+* Perelson AS. Modelling viral and immune system dynamics. Nat Rev Immunol. 2002 Jan;2(1):28-36. [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/perelson.pdf)
+* Modeling the Spread of Ebola [[PDF]](https://www.sciencedirect.com/science/article/pii/S2210909915300618/pdfft?md5=5821aebbd161d4c945b83f57e658cdf5&pid=1-s2.0-S2210909915300618-main.pdf)
+
+---
+
+### Session 7, 4/1, Zoom
+
+
+#### Topic
+* Deep learning for genomics
+
+#### Reading Assignment
+* A primer on deep learning in genomics [[PDF]](https://www.nature.com/articles/s41588-018-0295-5.pdf)
+* Deep learning for biology [[PDF]](https://www.nature.com/magazine-assets/d41586-018-02174-z/d41586-018-02174-z.pdf)
+
+
+---
+
+### Session 8, 4/8, Zoom
 
 #### Topic
 Debate III - Cancer incidence
@@ -113,32 +138,9 @@ The following two are short comments on the above paper. You should read these c
 
 * Debate reignites over the contributions of ‘bad luck’ mutations to cancer [[Link]](http://www.sciencemag.org/news/2017/03/debate-reignites-over-contributions-bad-luck-mutations-cancer)
 * The simple math that explains why you may (or may not) get cancer [[Link]](http://www.sciencemag.org/news/2015/01/simple-math-explains-why-you-may-or-may-not-get-cancer)
-
 ---
 
-### Session 7, 4/2, Zoom
-
-#### Topic
-* Deep learning for genomics
-
-#### Reading Assignment
-* A primer on deep learning in genomics [[PDF]](https://www.nature.com/articles/s41588-018-0295-5.pdf)
-* Deep learning for biology [[PDF]](https://www.nature.com/magazine-assets/d41586-018-02174-z/d41586-018-02174-z.pdf)
-
----
-
-### Session 8, 4/9, Zoom
-
-#### Topic
-* Immune system modelling and dynamics
-
-#### Reading Assignment
-* Perelson AS. Modelling viral and immune system dynamics. Nat Rev Immunol. 2002 Jan;2(1):28-36. [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/perelson.pdf)
-* Modeling the Spread of Ebola [[PDF]](https://www.sciencedirect.com/science/article/pii/S2210909915300618/pdfft?md5=5821aebbd161d4c945b83f57e658cdf5&pid=1-s2.0-S2210909915300618-main.pdf)
-
----
-
-### Session 9, 4/16, Zoom
+### Session 9, 4/15, Zoom
 
 #### Topic
 * Protein structure and biophysics
@@ -150,7 +152,7 @@ The following two are short comments on the above paper. You should read these c
 
 ---
 
-### Session 10, 4/23, Zoom
+### Session 10, 4/22, Zoom
 
 #### Topic
 * Help session on HW 2 / final project
