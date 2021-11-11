@@ -91,6 +91,8 @@ For the class you can choose to do assignments in either R or python. Here are s
 
 **R for Data Science by Hadley Wickam**
 
+### Accessibility Statement
+We are committed to creating a course that is inclusive in its design. If you encounter barriers, please let us know immediately so that we can determine if there is a design adjustment that can be made or if an accommodation might be needed to overcome the limitations of the design. We are always happy to consider creative solutions as long as they do not compromise the intent of the assessment or learning activity. You are also welcome to contact Student Accessibility Services to begin this conversation or to establish accommodations for this or other courses. We welcome feedback that will assist us in improving the usability and experience for all students.
 
 
 ## Plagiarism
