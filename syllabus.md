@@ -4,64 +4,61 @@ layout: page
 ---
 
 ## Syllabus
-
-| Date   | Topic                                                                        | Public Comment   | URL                                                                                                             |
-| ------ | ---------------------------------------------------------------------------- | ---------------- | --------------------------------------------------------------------------------------------------------------- |
-| 18-Jan | \*YALE\* Spring term classes begin, 8.20 a.m.                                |                  |                                                                                                                 |
-|        |                                                                              |                  |
-| 19-Jan | Introduction                                                                 | Pack 1           | See below for MG Slides                                                                                         |
-| 24-Jan | DATA 1 - Genomics I                                                          |                  | [Genomic 1 \[PDF\]](http://files2.gersteinlab.org/public-docs/2021/02.03/210203_Genomics.pdf)                   |
-| 26-Jan | DATA 2 - Genomics II                                                         |                  | [Genomic 2 \[PDF\]](http://files2.gersteinlab.org/public-docs/2021/02.08/210207_Genomics_II.pdf)                |
-| 31-Jan | DATA 3 - Proteomics I                                                        |                  | [Proteomics 1 \[PDF\]](http://files2.gersteinlab.org/public-docs/2021/02.10/CBB_752_2021_Proteins.pdf)          |
-| 2-Feb  | DATA 4 - Proteomics II                                                       |                  | [Proteomics 2 \[PDF\]](http://files2.gersteinlab.org/public-docs/2021/02.15/CBB_752_2021_Structure.pdf)         |
-| 7-Feb  | DATA 5 - Knowledge Representation & Databases                                |                  |                                                                                                                 |
-| 9-Feb  | MINING 1 - Personal Genomes Intro. (with an individual's perspective)        | Pack 2           | [Carl Slides \[PDF\]](http://files2.gersteinlab.org/public-docs/2021/02.24/Zimmer_MBB_452_genome_talk_2021.pdf) |
-| 14-Feb | MINING 2 - Seq. Comparison + Multi-seq Alignment                             | Pack 3, 4        | See below for MG Slides                                                                                         |
-| 16-Feb | MINING 3 - Fast Alignment + Variant Calling (incl. a focused section on SVs) | Pack 5, 6a       | See below for MG Slides                                                                                         |
-| 21-Feb | Quiz on 1st Half                                                             |                  |                                                                                                                 |
-| 23-Feb | MINING 4 - Basic Multi-Omics + Supervised Mining #1                          |                  |                                                                                                                 |
-| 28-Feb | MINING 5 - Supervised Mining #1 + Unsupervised Mining #1                     | Pack 8b-c, 9a-b  | See below for MG Slides                                                                                         |
-| 2-Mar  | MINING 6 - Unsupervised Mining #2 + Network Analysis                         | Pack 9c-e, 10a-b | See below for MG Slides                                                                                         |
-| 7-Mar  | TF short lecture + MG network                                                |                  | [Privacy \[PPT\]](http://files2.gersteinlab.org/public-docs/2021/04.19/Privacy.pptx)                            |
-| 9-Mar  | TF short lecture                                                             | Pack 10c-d       | [eQTL \[PPT\]](http://files2.gersteinlab.org/public-docs/2021/03.29/eQTL.pptx)                                  |
-| 11-Mar | Spring break begins                                                          |                  |                                                                                                                 |
-|        |                                                                              |                  |
-| 28-Mar | Deep Learning I                                                              |                  | [DL 1 \[PDF\]](http://files2.gersteinlab.org/public-docs/2021/03.31/DeepLearning_I_IntroDL.pdf)                 |
-| 30-Mar | Deep Learning II                                                             |                  | [DL 2 \[PDF\]](http://files2.gersteinlab.org/public-docs/2021/04.05/DeepLearning_II_2021.pdf)                   |
-| 4-Apr  | Deep Learning III                                                            |                  | [DL 3 \[PDF\]](http://files2.gersteinlab.org/public-docs/2021/04.07/DeepLearning_III_VAE_and_GAN.pdf)           |
-| 6-Apr  | Protein Simulation I                                                         |                  |                                                                                                                 |
-| 11-Apr | Protein Simulation II                                                        |                  |                                                                                                                 |
-| 13-Apr | Protein Simulation III                                                       |                  |                                                                                                                 |
-| 18-Apr | Markov Models I                                                              |                  |                                                                                                                 |
-| 20-Apr | Markov Models II                                                             |                  |                                                                                                                 |
-| 25-Apr | Quiz on 2nd Half                                                             |                  |                                                                                                                 |
-| 27-Apr | Final Presentations                                                          |                  |                                                                                                                 |
-|        | Privacy                                                                      |                  |                                                                                                                 |
-| 29-Apr | \*YALE\* Classes end; Reading period begins                                  |                  |                                                                                                                 |
-| 6-May  | \*YALE\* Final examinations begin                                            |                  |                                                                                                                 |
-| 11-May | \*YALE\* Final examinations end                                              |                  |                                                                                                                 |
-
+| Date   | Topic                                                                        | Public Comment | URL |
+| ------ | ---------------------------------------------------------------------------- | -------------- | --- |
+| 18-Jan | \*YALE\* Spring term classes begin, 8.20 a.m.                                |                |     |
+|        |                                                                              |                |
+| 19-Jan | Introduction                                                                 |                |     |
+| 24-Jan | DATA 1 - Genomics I                                                          |                |     |
+| 26-Jan | DATA 2 - Genomics II                                                         |                |     |
+| 31-Jan | DATA 3 - Proteomics I                                                        |                |     |
+| 2-Feb  | DATA 4 - Proteomics II                                                       |                |     |
+| 7-Feb  | DATA 5 - Knowledge Representation & Databases                                |                |     |
+| 9-Feb  | MINING 1 - Personal Genomes Intro. (with an individual's perspective)        |                |     |
+| 14-Feb | MINING 2 - Seq. Comparison + Multi-seq Alignment                             |                |     |
+| 16-Feb | MINING 3 - Fast Alignment + Variant Calling (incl. a focused section on SVs) |                |     |
+| 21-Feb | MINING 4 - Basic Multi-Omics + Supervised Mining #1                          |                |     |
+| 23-Feb | Quiz on 1st Half                                                             |                |     |
+| 28-Feb | MINING 5 - Supervised Mining #1 + Unsupervised Mining #1                     |                |     |
+| 2-Mar  | MINING 6 - Unsupervised Mining #2 + Network Analysis                         |                |     |
+| 7-Mar  | TF short lecture + MG network                                                |                |     |
+| 9-Mar  | TF short lecture                                                             |                |     |
+| 11-Mar | Spring break begins                                                          |                |     |
+|        |                                                                              |                |
+| 28-Mar | Deep Learning I                                                              |                |     |
+| 30-Mar | Deep Learning II                                                             |                |     |
+| 4-Apr  | Deep Learning III                                                            |                |     |
+| 6-Apr  | Protein Simulation I                                                         |                |     |
+| 11-Apr | Protein Simulation II                                                        |                |     |
+| 13-Apr | Protein Simulation III                                                       |                |     |
+| 18-Apr | Markov Models I                                                              |                |     |
+| 20-Apr | Markov Models II                                                             |                |     |
+| 25-Apr | Quiz on 2nd Half                                                             |                |     |
+| 27-Apr | Final Presentations                                                          |                |     |
+| 29-Apr | \*YALE\* Classes end; Reading period begins                                  |                |     |
+| 6-May  | \*YALE\* Final examinations begin                                            |                |     |
+| 11-May | \*YALE\* Final examinations end                                              |                |     |
 ### MG Lecture Slide Pack
 
-| #   | Topic                                           | PDF                                                                                                                                  | PPT                                                                                                                                   |
-| --- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Introduction to Biomedical Data Science         | [Pack 1](http://files2.gersteinlab.org/public-docs/2021/02.21/cbb752-MG-spr21-01-biomed-datasci-intro.pdf)                           | [Pack 1](http://files2.gersteinlab.org/public-docs/2021/02.21/cbb752-MG-spr21-01-biomed-datasci-intro.ppt)                            |
-| 2   | Introduction to Personal Genomes                | [Pack 2](http://files2.gersteinlab.org/public-docs/2021/03.05/cbb752-MG-spr21-02-personalgenomes-intro.pdf)                          | [Pack 2](http://files2.gersteinlab.org/public-docs/2021/03.05/cbb752-MG-spr21-02-personalgenomes-intro.pptx)                          |
-| 3   | Sequence Comparison                             | [Pack 3](http://files2.gersteinlab.org/public-docs/2021/03.05/cbb752-MG-spr21-03-seqcmp.pdf)                                         | [Pack 3](http://files2.gersteinlab.org/public-docs/2021/03.05/cbb752-MG-spr21-03-seqcmp.ppt)                                          |
-| 4   | Multiple Sequence Comparison                    | [Pack 4](http://files2.gersteinlab.org/public-docs/2021/03.05/cbb752-MG-spr21-04-multiseq.pdf)                                       | [Pack 4](http://files2.gersteinlab.org/public-docs/2021/03.05/cbb752-MG-spr21-04-multiseq.ppt)                                        |
-| 5   | Fast Alignment                                  | [Pack 5](http://files2.gersteinlab.org/public-docs/2021/03.05/cbb752-MG-spr21-05-fastalign.pdf)                                      | [Pack 5](http://files2.gersteinlab.org/public-docs/2021/03.05/cbb752-MG-spr21-05-fastalign.ppt)                                       |
-| 6a  | Variant Identification, Focusing on SVs         | [Pack 6](http://files2.gersteinlab.org/public-docs/2021/03.05/cbb752-MG-spr21-06-SNVs-SVs.pdf)                                       | [Pack 6](http://files2.gersteinlab.org/public-docs/2021/03.05/cbb752-MG-spr21-06-SNVs-SVs.pptx)                                       |
-| 6b  | 1000 Genome + PCAWG summary                     | [Pack 6b](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-06b-1000G-PCAWG.pdf)                                  | [Pack 6b](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-06b-1000G-PCAWG.pptx)                                  |
-| 7   | Basic Multi-omics (pipeline processing)         | [Pack 7](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-07-multi-omics.pdf)                                    | [Pack 7](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-07-multi-omics.pptx)                                    |
-| 8a  | Supervised Data Mining - Decision Trees         | [Pack 8a](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-08a-datamining-supervised-decisiontrees.pdf)          | [Pack 8a](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-08a-datamining-supervised-decisiontrees.ppt)           |
-| 8b  | Supervised Data Mining - ROC & Cross-validation | [Pack 8b](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-08b-datamining-supervised-ROCs-Cross-validation.pdf)  | [Pack 8b](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-08b-datamining-supervised-ROCs-Cross-validation.ppt)   |
-| 8c  | Supervised Data Mining - SVMs                   | [Pack 8c](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-08c-datamining-supervised-SVMs.pdf)                   | [Pack 8c](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-08c-datamining-supervised-SVMs.ppt)                    |
-| 9a  | Unsupervised Data Mining - Clustering           | [Pack 9a](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-09a-datamining-unsupervised--clustering.pdf)          | [Pack 9a](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-09a-datamining-unsupervised--clustering.pptx)          |
-| 9b  | Unsupervised Data Mining - Community Detection  | [Pack 9b](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-09b-datamining-unsupervised--community-detection.pdf) | [Pack 9b](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-09b-datamining-unsupervised--community-detection.pptx) |
-| 9c  | Unsupervised Data Mining - SVD                  | [Pack 9c](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-09c-datamining-unsupervised--svd.pdf)                 | [Pack 9c](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-09c-datamining-unsupervised--svd.pptx)                 |
-| 9d  | Unsupervised Data Mining - RCA & CCA            | [Pack 9d](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-09d-datamining-unsupervised--rca-cca.pdf)             | [Pack 9d](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-09d-datamining-unsupervised--rca-cca.pdf)              |
-| 9e  | Unsupervised Data Mining - tSNE & LDA           | [Pack 9e](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-09e-datamining-unsupervised--tsne-lda.pdf)            | [Pack 9e](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-09e-datamining-unsupervised--tsne-lda.pptx)            |
-| 10a | Network - Intro                                 | [Pack 10a](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-10a-network-topology-analysis.pdf)                   | [Pack 10a](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-10a-network-topology-analysis.ppt)                    |
-| 10b | Network - Network Quantities                    | [Pack 10b](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-10b-network-topology-analysis.pdf)                   | [Pack 10b](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-10b-network-topology-analysis.ppt)                    |
-| 10c | Network - Network Generation Models             | [Pack 10c](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-10c-network-topology-analysis.pdf)                   | [Pack 10c](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-10c-network-topology-analysis.ppt)                    |
-| 10d | Network - Central Network Points                | [Pack 10d](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-10d-network-topology-analysis.pdf)                   | [Pack 10d](http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-10d-network-topology-analysis.ppt)                    |
+| #   | Topic                                           | PDF | PPT |
+| --- | ----------------------------------------------- | --- | --- |
+| 1   | Introduction to Biomedical Data Science         |     |     |
+| 2   | Introduction to Personal Genomes                |     |     |
+| 3   | Sequence Comparison                             |     |     |
+| 4   | Multiple Sequence Comparison                    |     |     |
+| 5   | Fast Alignment                                  |     |     |
+| 6a  | Variant Identification, Focusing on SVs         |     |     |
+| 6b  | 1000 Genome + PCAWG summary                     |     |     |
+| 7   | Basic Multi-omics (pipeline processing)         |     |     |
+| 8a  | Supervised Data Mining - Decision Trees         |     |     |
+| 8b  | Supervised Data Mining - ROC & Cross-validation |     |     |
+| 8c  | Supervised Data Mining - SVMs                   |     |     |
+| 9a  | Unsupervised Data Mining - Clustering           |     |     |
+| 9b  | Unsupervised Data Mining - Community Detection  |     |     |
+| 9c  | Unsupervised Data Mining - SVD                  |     |     |
+| 9d  | Unsupervised Data Mining - RCA & CCA            |     |     |
+| 9e  | Unsupervised Data Mining - tSNE & LDA           |     |     |
+| 10a | Network - Intro                                 |     |     |
+| 10b | Network - Network Quantities                    |     |     |
+| 10c | Network - Network Generation Models             |     |     |
+| 10d | Network - Central Network Points                |     |     |
