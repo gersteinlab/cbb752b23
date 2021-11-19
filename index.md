@@ -21,7 +21,7 @@ This course aims to equip students with some of the concepts and skills relevant
 
 - F 10:00-11:00 AM or F 1:00-2:00 PM, BASS405
 
-## Different headings for this class (4 variants)
+## Different headings for this class (5 variants)
 
 - CBB 752 / CPSC 752 - Grad. with programming
   - This graduate-level version of the course consists of lectures, in-class tests, discussion section, programming assignments, and a final programming project.
@@ -36,8 +36,11 @@ This course aims to equip students with some of the concepts and skills relevant
   - 754 - Biomedical Data Science: Modeling (2nd half of term)
   - Each module consists of lectures, in-class tests, written problem sets, and a final, graduate level written project that is half the length of the full course's final project.
 
-- MB&B 452 / MCDB 452 / S&DS 352 - Undergrad.
+- MB&B 452 / MCDB 452 - Undergrad.
   - This undergraduate version of the course consists of lectures, in-class tests, discussion section, written problem sets, and a final (semi-computational section and a literature survey) project. The programming assignments from CBB752 can be substituted for the written work by permission of instructor.
+
+- S&DS 352 - Undergrad.
+  - This undergraduate version of the course consists of lectures, in-class tests, discussion section, programming assignments, and a final programming project.
 
 - Auditing
   - This is allowed. We would strongly prefer if you would register for the class.
