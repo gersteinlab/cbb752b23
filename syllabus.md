@@ -4,6 +4,7 @@ layout: page
 ---
 
 ## Syllabus
+
 | Date   | Topic                                                                        | Public Comment | URL |
 | ------ | ---------------------------------------------------------------------------- | -------------- | --- |
 | 18-Jan | \*YALE\* Spring term classes begin, 8.20 a.m.                                |                |     |
@@ -38,6 +39,7 @@ layout: page
 | 29-Apr | \*YALE\* Classes end; Reading period begins                                  |                |     |
 | 6-May  | \*YALE\* Final examinations begin                                            |                |     |
 | 11-May | \*YALE\* Final examinations end                                              |                |     |
+
 ### MG Lecture Slide Pack
 
 | #   | Topic                                           | PDF | PPT |
