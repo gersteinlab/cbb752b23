@@ -40,7 +40,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 1, 1/28, BASS405 for both sessions (First Discussion Sessions)
+### Session 1, 2/4, Virtual (Zoom) for both sessions (First Discussion Sessions)
 
 #### Topic
 * Next-Gen Sequencing and database
@@ -51,7 +51,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 2, 2/4, BASS405 for both sessions
+### Session 2, 2/11, BASS405 for both sessions
 
 #### Topic
 * Proteomics
@@ -62,7 +62,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 3, 2/11, BASS405 for both sessions
+### Session 3, 2/18, BASS405 for both sessions
 
 #### Topic
 * Debate I
@@ -76,7 +76,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 4, 2/18, BASS405 for both sessions
+### Session 4, 2/25, BASS405 for both sessions
 
 #### Topic
 * Help session on Quiz 1 - TFs prepare materials on SW alignments and Q&A session
@@ -88,7 +88,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 5, 2/25, BASS405 for both sessions
+### Session 5, 3/4, BASS405 for both sessions
 
 #### Topic
 * Debate II - Phylogenetics
@@ -99,15 +99,14 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 6, 3/4, BASS405 for both sessions
+### Session 6, 3/11, BASS405 for both sessions
 
 
 #### Topic
-* Immune system modelling and dynamics
+TBD
 
 #### Reading Assignment
-* Perelson AS. Modelling viral and immune system dynamics. Nat Rev Immunol. 2002 Jan;2(1):28-36. [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/perelson.pdf)
-* Modeling the Spread of Ebola [[PDF]](https://www.sciencedirect.com/science/article/pii/S2210909915300618/pdfft?md5=5821aebbd161d4c945b83f57e658cdf5&pid=1-s2.0-S2210909915300618-main.pdf)
+TBD
 
 ---
 
