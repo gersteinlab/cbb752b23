@@ -38,7 +38,7 @@ Consultation is available UPON REQUEST or according to times stipulated by the i
 ## General Course Policy
 
 ### First Meeting
-The first lecture will be held on Wed. Jun 19th, 2022. 
+The first lecture will be held on Wed. Jan 26th, 2022. 
 
 ### Grading Policy
 We expect that this year the weighting scheme will be to a first approximation:
