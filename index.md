@@ -97,5 +97,5 @@ For references, please refer the previous [Quiz Archive](/quiz)
 
 
 ## Class data dump
-- Syllabus and class info dump in single PDF file: [PDF](http://files2.gersteinlab.org/public-docs/2021/11.14/cbb752b22_syllabus_v2.pdf)
+- Syllabus and class info dump in single PDF file: [PDF](http://files2.gersteinlab.org/public-docs/2022/01.10/cbb752b22_syllabus_v2.pdf)
 - Class poster: [pdf](http://files2.gersteinlab.org/public-docs/2021/11.14/cbb752b22_poster_A4.pdf)
