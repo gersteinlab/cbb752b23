@@ -4,6 +4,7 @@ layout: page
 ---
 
 ## Syllabus
+
 | Date   | Topic                                                                        | Comment | URL |
 | ------ | ---------------------------------------------------------------------------- | ------- | --- |
 | 25-Jan | \*YALE\* Spring term classes begin, 8.20 a.m.                                |         |     |
