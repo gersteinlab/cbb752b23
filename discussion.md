@@ -9,7 +9,7 @@ layout: page
 
 | Session | Time | Location | Note |
 | --- | --- | --- | --- |
-| Section 1 | 9:30-10:30 AM | BASS405 | &nbsp; |
+| Section 1 | 10:00-11:00 AM | BASS405 | &nbsp; |
 | Section 2 | 1:00-2:00 PM  | BASS405 | &nbsp; |
 
 ### Format
