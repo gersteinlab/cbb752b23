@@ -4,6 +4,12 @@ Rapid developments in bio- and information- technology and are changing the way 
 
 This course aims to equip students with some of the concepts and skills relevant to biomedical data science, with an emphasis on bioinformatics, a sub-discipline of this broader field, through examples of mining and modeling of genomic and proteomic data. More specifically, bioinformatics encompasses the analysis of gene sequences, macromolecular structures, and functional genomics data on a large scale. It represents a major practical application for modern techniques in data mining and simulation. Specific topics to be covered include sequence alignment, large-scale processing, next-generation sequencing data, comparative genomics, phylogenetics, biological database design, geometric analysis of protein structure, molecular-dynamics simulation, biological networks, mining of functional genomics data sets, and machine learning approaches for data integration.
 
+#### Course Survey
+
+If you are taking the class, please fill out this survey by 2/1:
+
+https://docs.google.com/forms/d/1WUli-2fz4jXJ6VUvJHWOypmud-k6UOYfmezGj8PyV4M/edit
+
 ### Overall Flow of the Class
 
 (Module = Group of Lectures)
@@ -16,6 +22,7 @@ This course aims to equip students with some of the concepts and skills relevant
 ### Lectures
 
 - MW 1:00 - 2:15 PM, BASS305. All lectures will be recorded. Recordings will be available in Canvas a few minutes after each lecture
+- The first 3 lectures, and first discussion section will be held remotely on zoom. The zoom link can be found [here](https://yale.zoom.us/j/92687108338)
 
 ### Discussion Section
 
