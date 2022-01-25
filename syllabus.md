@@ -13,8 +13,8 @@ layout: page
 | 2-Feb  | DATA 2 - Genomics II                                                         |         |     |
 | 7-Feb  | DATA 3 - Proteomics I                                                        |         |     |
 | 9-Feb  | DATA 4 - Proteomics II                                                       |         |     |
-| 14-Feb | MINING 1 - Personal Genomes Intro. (with an individual's perspective)        |         |     |
-| 16-Feb | MINING 2 - Seq. Comparison + Multi-seq Alignment                             |         |     |
+| 14-Feb | MINING 1 - Seq. Comparison + Multi-seq Alignment                             |         |     |
+| 16-Feb | MINING 2 - Personal Genomes Intro. (with an individual's perspective)        |         |     |
 | 21-Feb | MINING 3 - Fast Alignment + Variant Calling (incl. a focused section on SVs) |         |     |
 | 23-Feb | DATA 5 - Knowledge Representation & Databases                                |         |     |
 | 28-Feb | MINING 4 - Basic Multi-Omics + Supervised Mining #1                          |         |     |
