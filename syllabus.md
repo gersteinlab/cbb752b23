@@ -11,10 +11,10 @@ Please see [last year's syllabus](http://cbb752b21.gersteinlab.org/syllabus) for
 See lab [permissions statement](https://sites.gersteinlab.org/permissions/) in relation to resusing any of the below material.
 
 
-| Date   | Topic                                                                        | Comment | URL |
+| Date   | Topic                                                                        | This year's lecture | [Last year's lecture](http://cbb752b21.gersteinlab.org/syllabus) |
 | ------ | ---------------------------------------------------------------------------- | ------- | --- |
 | 25-Jan | \*YALE\* Spring term classes begin, 8.20 a.m.                                |         |     |
-| 26-Jan | Introduction                                                                 |         |     |
+| 26-Jan | Introduction                                                                 |         | I1    |
 | 31-Jan | DATA 1 - Genomics I                                                          |         |     |
 | 2-Feb  | DATA 2 - Genomics II                                                         |         |     |
 | 7-Feb  | DATA 3 - Proteomics I                                                        |         |     |
