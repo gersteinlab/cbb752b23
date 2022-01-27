@@ -6,9 +6,11 @@ This course aims to equip students with some of the concepts and skills relevant
 
 #### Course Survey
 
-If you are taking the class, please fill out this survey by 2/1:
+If you are taking the class, please fill out BOTH of these surveys by 2/1:
 
-[https://forms.gle/G4FoHkRG34kBMist9](https://forms.gle/G4FoHkRG34kBMist9)
+survey 1: [https://forms.gle/G4FoHkRG34kBMist9](https://forms.gle/G4FoHkRG34kBMist9)
+
+survey 2: [https://forms.gle/v7xAdzR8L5LAtJue9](https://forms.gle/v7xAdzR8L5LAtJue9 )
 
 ### Overall Flow of the Class
 
