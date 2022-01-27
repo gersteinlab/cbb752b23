@@ -6,7 +6,7 @@ layout: page
 
 ## Syllabus
 
-Please see [last year's syllabus](http://cbb752b21.gersteinlab.org/syllabus) for previews for this year's lectures (which will be slightly different).
+Please see [last year's syllabus](http://cbb752b21.gersteinlab.org/syllabus) (Lecture Slide Pack and Video at bottom) for previews for this year's lectures, which will be slightly different.
 
 See lab [permissions statement](https://sites.gersteinlab.org/permissions/) in relation to resusing any of the below material.
 
@@ -45,7 +45,7 @@ See lab [permissions statement](https://sites.gersteinlab.org/permissions/) in r
 | 11-May | \*YALE\* Final examinations end                                              |         |     |
 
 
-### MG Lecture Slide Pack
+### Lecture Slide Pack
 
 | #   | Topic                                           | PDF | PPT |
 | --- | ----------------------------------------------- | --- | --- |
