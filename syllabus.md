@@ -3,6 +3,10 @@ title: Syllabus
 layout: page
 ---
 
+Please see [last year's syllabus](http://cbb752b21.gersteinlab.org/syllabus) for previews for this year's lectures (which will be slightly different).
+
+See lab [permissions statement](https://sites.gersteinlab.org/permissions/) in relation to resusing any of the below material.
+
 ## Syllabus
 
 | Date   | Topic                                                                        | Comment | URL |
