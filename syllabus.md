@@ -11,7 +11,7 @@ Please see [last year's syllabus](http://cbb752b21.gersteinlab.org/syllabus) (Le
 See lab [permissions statement](https://sites.gersteinlab.org/permissions/) in relation to resusing any of the below material.
 
 
-| Date | Topic                                                                        | This year’s lecture | [Last year’s lecture](http://cbb752b21.gersteinlab.org/syllabus) | Comment                                |
+| Date | Topic                                                                        | This year’s lecture (see bottom) | [Last year’s lecture](http://cbb752b21.gersteinlab.org/syllabus) | Comment                                |
 | ---- | ---------------------------------------------------------------------------- | ------------------- | ---------------------------------------------------------------- | -------------------------------------- |
 | 1/25 | \*YALE\* Spring term classes begin, 8.20 a.m.                                |                     |                                                                  |                                        |
 | 1/26 | Introduction                                                                 | 22i1                | I1                                                               | l1 took ~45'. Rest going over syllabus |
