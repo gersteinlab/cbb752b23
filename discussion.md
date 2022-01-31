@@ -46,7 +46,6 @@ Reading assignments for discussion sessions are listed below:
 * Next-Gen Sequencing and database
 
 #### Reading Assignment
-* Goodwin S. et al. "Coming of age: ten years of next-generation sequencing technologies" Nature Reviews Genetics. 17 (2016) [[PDF]](http://www.nature.com/nrg/journal/v17/n6/pdf/nrg.2016.49.pdf)
 * Wheeler DA et al. "The complete genome of an individual by massively parallel DNA sequencing,” Nature. 452:872-876 (2008) [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/WatsonGenome.pdf)
 * Logsdon GA et al. "Long-read human genome sequencing and its applications" Nature Reviews Genetics. 21:597-614 (2020) [[PDF]](https://www.nature.com/articles/s41576-020-0236-x.pdf)
 
