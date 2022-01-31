@@ -11,61 +11,74 @@ Please see [last year's syllabus](http://cbb752b21.gersteinlab.org/syllabus) (Le
 See lab [permissions statement](https://sites.gersteinlab.org/permissions/) in relation to resusing any of the below material.
 
 
-| Date   | Topic                                                                        | This year's lecture | [Last year's lecture](http://cbb752b21.gersteinlab.org/syllabus) |
-| ------ | ---------------------------------------------------------------------------- | ------- | --- |
-| 25-Jan | \*YALE\* Spring term classes begin, 8.20 a.m.                                |         |     |
-| 26-Jan | Introduction                                                                 |         | I1    |
-| 31-Jan | DATA 1 - Genomics I                                                          |         |     |
-| 2-Feb  | DATA 2 - Genomics II                                                         |         |     |
-| 7-Feb  | DATA 3 - Proteomics I                                                        |         |     |
-| 9-Feb  | DATA 4 - Proteomics II                                                       |         |     |
-| 14-Feb | MINING 1 - Seq. Comparison + Multi-seq Alignment                             |         |     |
-| 16-Feb | MINING 2 - Personal Genomes Intro. (with an individual's perspective)        |         |     |
-| 21-Feb | MINING 3 - Fast Alignment + Variant Calling (incl. a focused section on SVs) |         |     |
-| 23-Feb | DATA 5 - Knowledge Representation & Databases                                |         |     |
-| 28-Feb | MINING 4 - Basic Multi-Omics + Supervised Mining #1                          |         |     |
-| 2-Mar  | MINING 5 - Supervised Mining #1 + Unsupervised Mining #1                     |         |     |
-| 7-Mar  | MINING 6 - Unsupervised Mining #2 + Network Analysis                         |         |     |
-| 9-Mar  | TF short lecture + MG network                                                |         |     |
-| 14-Mar | TF short lecture                                                             |         |     |
-| 16-Mar | Quiz on 1st Half                                                             |         |     |
-| 18-Mar | Spring break begins                                                          |         |     |
-| 28-Mar | Deep Learning I                                                              |         |     |
-| 30-Mar | Deep Learning II                                                             |         |     |
-| 4-Apr  | Deep Learning III                                                            |         |     |
-| 6-Apr  | Protein Simulation I                                                         |         |     |
-| 11-Apr | Protein Simulation II                                                        |         |     |
-| 13-Apr | Protein Simulation III                                                       |         |     |
-| 18-Apr | Markov Models I                                                              |         |     |
-| 20-Apr | Markov Models II                                                             |         |     |
-| 25-Apr | Quiz on 2nd Half                                                             |         |     |
-| 27-Apr | Final Presentations                                                          |         |     |
-| 29-Apr | \*YALE\* Classes end; Reading period begins                                  |         |     |
-| 6-May  | \*YALE\* Final examinations begin                                            |         |     |
-| 11-May | \*YALE\* Final examinations end                                              |         |     |
+| Date | Topic                                                                        | This year’s lecture | [Last year’s lecture](http://cbb752b21.gersteinlab.org/syllabus) | Comment                                |
+| ---- | ---------------------------------------------------------------------------- | ------------------- | ---------------------------------------------------------------- | -------------------------------------- |
+| 1/25 | \*YALE\* Spring term classes begin, 8.20 a.m.                                |                     |                                                                  |                                        |
+| 1/26 | Introduction                                                                 | 22i1                | I1                                                               | l1 took ~45'. Rest going over syllabus |
+| 1/31 | DATA 1 - Genomics I                                                          | 22d1                | D1                                                               |                                        |
+| 2/2  | DATA 2 - Genomics II                                                         |                     |                                                                  |                                        |
+| 2/7  | DATA 3 - Proteomics I                                                        |                     |                                                                  |                                        |
+| 2/9  | DATA 4 - Proteomics II                                                       |                     |                                                                  |                                        |
+| 2/14 | MINING 1 - Seq. Comparison + Multi-seq Alignment                             |                     |                                                                  |                                        |
+| 2/16 | MINING 2 - Personal Genomes Intro. (with an individual's perspective)        |                     |                                                                  |                                        |
+| 2/21 | MINING 3 - Fast Alignment + Variant Calling (incl. a focused section on SVs) |                     |                                                                  |                                        |
+| 2/23 | DATA 5 - Knowledge Representation & Databases                                |                     |                                                                  |                                        |
+| 2/28 | MINING 4 - Basic Multi-Omics + Supervised Mining #1                          |                     |                                                                  |                                        |
+| 3/2  | MINING 5 - Supervised Mining #1 + Unsupervised Mining #1                     |                     |                                                                  |                                        |
+| 3/7  | MINING 6 - Unsupervised Mining #2 + Network Analysis                         |                     |                                                                  |                                        |
+| 3/9  | TF short lecture + MG network                                                |                     |                                                                  |                                        |
+| 3/14 | TF short lecture                                                             |                     |                                                                  |                                        |
+| 3/16 | Quiz on 1st Half                                                             |                     |                                                                  |                                        |
+| 3/18 | Spring break begins                                                          |                     |                                                                  |                                        |
+| 3/28 | Deep Learning I                                                              |                     |                                                                  |                                        |
+| 3/30 | Deep Learning II                                                             |                     |                                                                  |                                        |
+| 4/4  | Deep Learning III                                                            |                     |                                                                  |                                        |
+| 4/6  | Protein Simulation I                                                         |                     |                                                                  |                                        |
+| 4/11 | Protein Simulation II                                                        |                     |                                                                  |                                        |
+| 4/13 | Protein Simulation III                                                       |                     |                                                                  |                                        |
+| 4/18 | Markov Models I                                                              |                     |                                                                  |                                        |
+| 4/20 | Markov Models II                                                             |                     |                                                                  |                                        |
+| 4/25 | Quiz on 2nd Half                                                             |                     |                                                                  |                                        |
+| 4/27 | Final Presentations                                                          |                     |                                                                  |                                        |
+| 4/29 | \*YALE\* Classes end; Reading period begins                                  |                     |                                                                  |                                        |
+| 5/6  | \*YALE\* Final examinations begin                                            |                     |                                                                  |                                        |
+| 5/11 | \*YALE\* Final examinations end                                              |                     |                                                                  |                                        |
 
 
 ### Lecture Slide Pack
 
-| #   | Topic                                           | PDF | PPT |
-| --- | ----------------------------------------------- | --- | --- |
-| 1   | Introduction to Biomedical Data Science         |     |     |
-| 2   | Introduction to Personal Genomes                |     |     |
-| 3   | Sequence Comparison                             |     |     |
-| 4   | Multiple Sequence Comparison                    |     |     |
-| 5   | Fast Alignment                                  |     |     |
-| 6a  | Variant Identification, Focusing on SVs         |     |     |
-| 6b  | 1000 Genome + PCAWG summary                     |     |     |
-| 7   | Basic Multi-omics (pipeline processing)         |     |     |
-| 8a  | Supervised Data Mining - Decision Trees         |     |     |
-| 8b  | Supervised Data Mining - ROC & Cross-validation |     |     |
-| 8c  | Supervised Data Mining - SVMs                   |     |     |
-| 9a  | Unsupervised Data Mining - Clustering           |     |     |
-| 9b  | Unsupervised Data Mining - Community Detection  |     |     |
-| 9c  | Unsupervised Data Mining - SVD                  |     |     |
-| 9d  | Unsupervised Data Mining - RCA & CCA            |     |     |
-| 9e  | Unsupervised Data Mining - tSNE & LDA           |     |     |
-| 10a | Network - Intro                                 |     |     |
-| 10b | Network - Network Quantities                    |     |     |
-| 10c | Network - Network Generation Models             |     |     |
-| 10d | Network - Central Network Points                |     |     |
+| #    | Topic                                           | PDF                                                                                                       | PPT                                                                                                       |
+| ---- | ----------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| 22i1 | Introduction to Biomedical Data Science         | [pdf](http://files2.gersteinlab.org/public-docs/2022/01.31/cbb752-MG-spr22-22i1-biomed-datasci-intro.pdf) | [ppt](http://files2.gersteinlab.org/public-docs/2022/01.31/cbb752-MG-spr22-22i1-biomed-datasci-intro.ppt) |
+| 22d1 | DATA 1 - Genomics I                             |                                                                                                           |                                                                                                           |
+|      | DATA 2 - Genomics II                            |                                                                                                           |                                                                                                           |
+|      | DATA 3 - Proteomics I                           |                                                                                                           |                                                                                                           |
+|      | DATA 4 - Proteomics II                          |                                                                                                           |                                                                                                           |
+|      | Introduction to Personal Genomes                |                                                                                                           |                                                                                                           |
+|      | Sequence Comparison                             |                                                                                                           |                                                                                                           |
+|      | Multiple Sequence Comparison                    |                                                                                                           |                                                                                                           |
+|      | Fast Alignment                                  |                                                                                                           |                                                                                                           |
+|      | Variant Identification, Focusing on SVs         |                                                                                                           |                                                                                                           |
+|      | DATA 5 - Knowledge Representation & Databases   |                                                                                                           |                                                                                                           |
+|      | 1000 Genome + PCAWG summary                     |                                                                                                           |                                                                                                           |
+|      | Basic Multi-omics (pipeline processing)         |                                                                                                           |                                                                                                           |
+|      | Supervised Data Mining - Decision Trees         |                                                                                                           |                                                                                                           |
+|      | Supervised Data Mining - ROC & Cross-validation |                                                                                                           |                                                                                                           |
+|      | Supervised Data Mining - SVMs                   |                                                                                                           |                                                                                                           |
+|      | Unsupervised Data Mining - Clustering           |                                                                                                           |                                                                                                           |
+|      | Unsupervised Data Mining - Community Detection  |                                                                                                           |                                                                                                           |
+|      | Unsupervised Data Mining - SVD                  |                                                                                                           |                                                                                                           |
+|      | Unsupervised Data Mining - RCA & CCA            |                                                                                                           |                                                                                                           |
+|      | Unsupervised Data Mining - tSNE & LDA           |                                                                                                           |                                                                                                           |
+|      | Network - Intro                                 |                                                                                                           |                                                                                                           |
+|      | Network - Network Quantities                    |                                                                                                           |                                                                                                           |
+|      | Network - Network Generation Models             |                                                                                                           |                                                                                                           |
+|      | Network - Central Network Points                |                                                                                                           |                                                                                                           |
+|      | Deep Learning I                                 |                                                                                                           |                                                                                                           |
+|      | Deep Learning II                                |                                                                                                           |                                                                                                           |
+|      | Deep Learning III                               |                                                                                                           |                                                                                                           |
+|      | Protein Simulation I                            |                                                                                                           |                                                                                                           |
+|      | Protein Simulation II                           |                                                                                                           |                                                                                                           |
+|      | Protein Simulation III                          |                                                                                                           |                                                                                                           |
+|      | Markov Models I                                 |                                                                                                           |                                                                                                           |
+|      | Markov Models II                                |                                                                                                           |                                                                                                           |
