@@ -137,7 +137,7 @@ The following two are short comments on the above paper. You should read these c
 
 #### Reading Assignment
 * Artificial intelligence powers protein-folding predictions [[Link]](https://www.nature.com/articles/d41586-021-03499-y)
-* 2nd paper TBA
+* Computed structures of core eukaryotic protein complexes [[Link]](https://www.science.org/doi/10.1126/science.abm4805)
 
 ---
 
