@@ -133,10 +133,11 @@ The following two are short comments on the above paper. You should read these c
 ### Session 8, 4/8, BASS405 for both sessions
 
 #### Topic
-TBD
+* Deep learning II
 
 #### Reading Assignment
-TBD
+* Artificial intelligence powers protein-folding predictions [[Link]](https://www.nature.com/articles/d41586-021-03499-y)
+* 2nd paper TBA
 
 ---
 
