@@ -79,7 +79,6 @@ Reading assignments for discussion sessions are listed below:
 ### Session 4, 2/25, BASS405 for both sessions
 
 #### Topic
-* Help session on Quiz 1 - TFs prepare materials on SW alignments and Q&A session
 * Sequence and Alignments
 
 #### Reading Assignment
