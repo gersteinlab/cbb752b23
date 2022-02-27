@@ -93,8 +93,8 @@ Reading assignments for discussion sessions are listed below:
 * Debate II - Phylogenetics
 
 #### Reading Assignment
-* Jarvis ED et al. (2014) Whole-genome analyses resolve early branches in the tree of life of modern birds. Science, 346(6215), 1320-1331. [[PDF]](http://science.sciencemag.org/content/sci/346/6215/1320.full.pdf)
-* Mitchel KJ, Cooper A, Philips MJ (2015) Comment on “Whole-genome analyses resolve early branches in the tree of life of modern birds.” Science, 349(6255) 1460 [[PDF]](http://science.sciencemag.org/content/sci/349/6255/1460.1.full.pdf)
+* Jarvis ED et al. (2014) Whole-genome analyses resolve early branches in the tree of life of modern birds. Science, 346(6215), 1320-1331. [[Link]](https://www.science.org/doi/10.1126/science.1253451)
+* Mitchel KJ, Cooper A, Philips MJ (2015) Comment on “Whole-genome analyses resolve early branches in the tree of life of modern birds.” Science, 349(6255) 1460 [[Link]](https://www.science.org/doi/10.1126/science.aab1062)
 
 ---
 
