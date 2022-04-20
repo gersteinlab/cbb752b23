@@ -10,7 +10,7 @@ layout: page
 		Spring 2021:
 		<a href="http://cbb752b21.gersteinlab.org/">Main Page</a>,
         <a href="http://files2.gersteinlab.org/public-docs/2021/03.14/cbb752b21_Quiz1_key.pdf">Quiz 1 key</a>,
-		<a href="http://files2.gersteinlab.org/public-docs/2021/03.26/hw1.pdf">HW1</a>,
+		<a href="http://files2.gersteinlab.org/public-docs/2021/03.26/hw1.pdf">HW1</a>, <a href="http://files2.gersteinlab.org/public-docs/2022/04.19/ericni/cbb752b21_Quiz2.docx">Quiz 2 key</a>
 	</li>
 	<li>
 		Spring 2020:
