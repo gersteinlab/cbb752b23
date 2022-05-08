@@ -6,7 +6,7 @@ layout: page
 ## Final Project
 **Presentation Day**: April 27th (Wednesday) 2022, 1:00 PM EST, in-person in BASS 305
 
-**Write-up DUE DATE**: May 8th (Sunday) 2021, 11:59 PM EST. Submission in Canvas.
+**Write-up DUE DATE**: May 11th (Wednesday) 2021, 11:59 PM EST. Submission in Canvas.
 
 Download the final project description [here](http://files2.gersteinlab.org/public-docs/2022/04.20/cbb752b22_final.pdf).  
 See emails from TFs for group assignments.
@@ -21,7 +21,7 @@ Addendum for final Project:
 
 * For the shared presentation file, please make sure this is in powerpoint. 
 
-* **New Due Date** May 8th (Sunday) 2021, 11:59 PM EST. Submission in Canvas.
+* **New Due Date** May 11th (Wednesday) 2021, 11:59 PM EST. Submission in Canvas.
 
 
 ### Previous Years
