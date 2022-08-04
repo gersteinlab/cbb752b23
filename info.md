@@ -33,7 +33,7 @@ Consultation is available UPON REQUEST or according to times stipulated by the i
 | Name | Abbr | Office | Email |
 | --- | --- | --- | --- |
 | Eric Ni	| EN  | Bass 437	| eric.ni (at) yale.edu |
-| Tianxiao Li   | TXL | Bass 437	| tianxiao.li (at) yale.edu |
+| Jason Liu   | TXL | Bass 437	| jason.liu (at) yale.edu |
 
 ## General Course Policy
 
