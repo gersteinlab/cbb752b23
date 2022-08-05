@@ -6,11 +6,7 @@ This course aims to equip students with some of the concepts and skills relevant
 
 #### Course Survey
 
-If you are taking the class, please fill out BOTH of these surveys by 2/1:
-
-survey 1: [https://forms.gle/G4FoHkRG34kBMist9](https://forms.gle/G4FoHkRG34kBMist9)
-
-survey 2: [https://forms.gle/v7xAdzR8L5LAtJue9](https://forms.gle/v7xAdzR8L5LAtJue9 )
+TBA
 
 ### Overall Flow of the Class
 
@@ -24,11 +20,11 @@ survey 2: [https://forms.gle/v7xAdzR8L5LAtJue9](https://forms.gle/v7xAdzR8L5LAtJ
 ### Lectures
 
 - MW 1:00 - 2:15 PM, BASS305. All lectures will be recorded. Recordings will be available in Canvas a few minutes after each lecture
-- The first 3 lectures, and first discussion section will be held remotely on zoom. The zoom link can be found [here](https://yale.zoom.us/j/92687108338)
+
 
 ### Discussion Section
 
-- F 10:00-11:00 AM or F 1:00-2:00 PM, BASS405
+- TBA
 
 ## Different headings for this class (5 variants)
 
@@ -89,7 +85,8 @@ For references, please refer the previous [Quiz Archive](/quiz)
 - There will be equivalent two homework assignments, particularly for MB&B and MCDB students without a programming background. The programming part will be replaced with assignments involving the use of web-based tools or essay questions.
 
 ## Pages from previous years
-- 2022 Spring is the 25th time Bioinformatics has been taught at Yale. Pages for the 24 previous iterations of the class are available. Look at how things evolve!  [(Enrollment stats)](https://ivy.yale.edu/course-stats/course/courseDetail?termCode=202201&courseNumber=752&subjectCode=CB%26B&numDays=7)
+- 2023 Spring is the 26th time Bioinformatics has been taught at Yale. Pages for the 24 previous iterations of the class are available. Look at how things evolve!  
+- [2022 Spring](http://cbb752b22.gersteinlab.org) - [(Enrollment stats)](https://ivy.yale.edu/course-stats/course/courseDetail?termCode=202201&courseNumber=752&subjectCode=CB%26B&numDays=7)
 - [2021 Spring](http://cbb752b21.gersteinlab.org) - [(Enrollment stats)](https://ivy.yale.edu/course-stats/course/ocsCourseDetail?termCode=202101&courseNumbers=CB%26B+752%2FCPSC+752%2FMB%26B+452%2FMB%26B+752%2FMB%26B+753%2FMB%26B+754%2FMCDB+452%2FMCDB+752%2FS%26DS+352&subjectCode=CB%26B)
 - [2020 Spring](http://cbb752b20.gersteinlab.org) - [(Enrollment stats)](https://ivy.yale.edu/course-stats/course/ocsCourseDetail?termCode=202001&courseNumbers=CB%26B+752%2FCPSC+752%2FMB%26B+452%2FMB%26B+752%2FMB%26B+753%2FMB%26B+754%2FMCDB+452%2FMCDB+752%2FS%26DS+352&subjectCode=CB%26B)
 - [2019 Spring](http://cbb752b19.gersteinlab.org) - [(Enrollment stats)](https://ivy.yale.edu/course-stats/course/ocsCourseDetail?termCode=201901&courseNumbers=CB%26B+752%2FCPSC+752%2FMB%26B+452%2FMB%26B+752%2FMB%26B+753%2FMB%26B+754%2FMCDB+452%2FMCDB+752&subjectCode=CB%26B)
