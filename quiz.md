@@ -9,7 +9,7 @@ layout: page
 	<li>
 		Spring 2022:
 		<a href="http://cbb752b22.gersteinlab.org/">Main Page</a>,
-        <a href="http://files2.gersteinlab.org/public-docs/2022/10.26/quiz1answerkey.pdf">Quiz 1 key</a>,
+        <a href="http://files2.gersteinlab.org/public-docs/2022/10.26/quiz1answerkey_v2.pdf">Quiz 1 key</a>,
 		<a href="http://files2.gersteinlab.org/public-docs/2022/03.29/cbb752b22_hw1.pdf">HW1</a>, 
 		<a href="http://files2.gersteinlab.org/public-docs/2022/10.26/quiz2answerkey.pdf">Quiz 2 key</a>,
 		<a href="http://files2.gersteinlab.org/public-docs/2022/04.28/cbb752b22_hw2.pdf">HW2</a>, 
