@@ -24,7 +24,8 @@ TBA
 
 ### Discussion Section
 
-- TBA
+- F 10:00-11:00 AM or F 1:00-2:00 PM, BASS405
+
 
 ## Different headings for this class (5 variants)
 
