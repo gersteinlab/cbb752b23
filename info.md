@@ -34,6 +34,8 @@ Consultation is available UPON REQUEST or according to times stipulated by the i
 | --- | --- | --- | --- |
 | Eric Ni	| EN  | Bass 437	| eric.ni (at) yale.edu |
 | Jason Liu   | JL | Bass 437	| jason.j.liu (at) yale.edu |
+| Yuhang Chen	| YC  | Bass 437	| yuhang.chen (at) yale.edu |
+| Donglu Bai	| DB  | Bass 437	| donglu.bai (at) yale.edu |
 
 ## General Course Policy
 
