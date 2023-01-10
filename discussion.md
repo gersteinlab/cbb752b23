@@ -28,6 +28,7 @@ For write-ups and presentation, think about the following:
 * What were the questions the paper aim to address? (hypothesis)
 * What they did and what was the breakthrough? (method/results)
 * Conclusion and future direction (discussion/conclusion)
+* Questions you have about the paper, can be either elucidatory or critical
 
 ## Section Readings
 
