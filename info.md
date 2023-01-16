@@ -37,6 +37,12 @@ Consultation is available UPON REQUEST or according to times stipulated by the i
 | Yuhang Chen	| YC  | Bass 437	| yuhang.chen (at) yale.edu |
 | Donglu Bai	| DB  | Bass 437	| donglu.bai (at) yale.edu |
 
+## Piazza
+
+This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and the TAs. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. 
+
+Find our class page at: https://piazza.com/yale/spring2023/mbb452mcdb452mbb752mcdb752cbb752mbb753mbb754cpsc752sds352/info
+
 ## General Course Policy
 
 ### First Meeting
