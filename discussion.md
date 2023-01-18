@@ -80,30 +80,7 @@ Reading assignments for discussion sessions are listed below:
 ### Session 4, 2/17, BASS405 for both sessions
 
 #### Topic
-* Sequence and Alignments
-
-#### Reading Assignment
-* Altschul SF, Gish W, Miller W, Myers EW, Lipman DJ. (1990) Basic local alignment search tool. Journal of Molecular Biology, 215(3):403-10. PMID: 2231712. [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/Altschul.pdf)
-* T.F. Smith and M.S. Waterman. (1981) Identification of common molecular subsequences. Journal of Molecular Biology,147(1): 195-7. PMID: 7265238. [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/sw.pdf)
-
----
-
-### Session 5, 2/24, BASS405 for both sessions
-
-#### Topic
-* Debate II - Phylogenetics
-
-#### Reading Assignment
-* Jarvis ED et al. (2014) Whole-genome analyses resolve early branches in the tree of life of modern birds. Science, 346(6215), 1320-1331. [[Link]](https://www.science.org/doi/10.1126/science.1253451)
-* Mitchel KJ, Cooper A, Philips MJ (2015) Comment on “Whole-genome analyses resolve early branches in the tree of life of modern birds.” Science, 349(6255) 1460 [[Link]](https://www.science.org/doi/10.1126/science.aab1062)
-
----
-
-### Session 6, 3/3, BASS405 for both sessions
-
-
-#### Topic
-Debate III - Cancer incidence
+Debate II - Cancer incidence
 
 #### Reading Assignment
 
@@ -114,6 +91,30 @@ The following two are short comments on the above paper. You should read these c
 
 * Debate reignites over the contributions of ‘bad luck’ mutations to cancer [[Link]](http://www.sciencemag.org/news/2017/03/debate-reignites-over-contributions-bad-luck-mutations-cancer)
 * The simple math that explains why you may (or may not) get cancer [[Link]](http://www.sciencemag.org/news/2015/01/simple-math-explains-why-you-may-or-may-not-get-cancer)
+---
+
+### Session 5, 2/24, BASS405 for both sessions
+
+#### Topic
+* Single Cell
+
+#### Reading Assignment
+* Temporal modelling using single-cell transcriptomics [[Link]](https://www.nature.com/articles/s41576-021-00444-7)
+* Single-cell landscape of immunological responses in patients with COVID-19 [[Link]](https://www.nature.com/articles/s41590-020-0762-x)
+
+---
+
+### Session 6, 3/3, BASS405 for both sessions
+
+
+#### Topic
+Additional Topics: Digital Phenotyping/Biosensors and Privacy
+
+#### Reading Assignment
+
+* Digital Phenotyping Technology for a New Science of Behavior [[Link]](http://files2.gersteinlab.org/public-docs/2023/01.18/jama_insel_2017_vp_170119.pdf)
+* Toward clinical digital phenotyping: a timely opportunity to consider purpose, quality, and safety [[Link]](https://www.nature.com/articles/s41746-019-0166-1)
+* Contact Tracing Mobile Apps for COVID-19: Privacy Considerations and Related Trade-offs [[Link]](https://arxiv.org/pdf/2003.11511.pdf)
 
 ---
 
@@ -149,8 +150,7 @@ The following two are short comments on the above paper. You should read these c
 #### Reading Assignment
 * Zhou, AQ, O'Hern, CS, Regan, L (2011). Revisiting the Ramachandran plot from a new angle. Protein Sci., 20, 7:1166-71 [[PDF]](http://jamming.research.yale.edu/files/papers/rama.pdf)
 * Dill KA, Ozkan SB, Shell MS, Weikl TR. (2008) The Protein Folding Problem. Annu Rev Biophys,9, 37:289-316. PMID: 2443096. [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/proteinFolding.pdf)
-* Bowman GR, Beauchamp KA, Boxer G, Pande VS. “Progress and challenges in the automated construction of Markov state models for full protein systems,” J. Chem. Phys. 131 (2009) 124101 [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/bowman.pdf)
-
+* 
 ---
 
 ### Session 10, 4/21, BASS405 for both sessions
