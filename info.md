@@ -43,7 +43,7 @@ Consultation is available UPON REQUEST or according to times stipulated by the i
 
 This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and the TAs. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. 
 
-Find our class page at: [Link to Piazza](https://piazza.com/yale/spring2023/mbb452mcdb452mbb752mcdb752cbb752mbb753mbb754cpsc752sds352/info)
+Find our class page at: [Link to Piazza](https://piazza.com/yale/spring2023/mbb452mcdb452mbb752mcdb752cbb752mbb753mbb754cpsc752sds352)
 
 ## General Course Policy
 
