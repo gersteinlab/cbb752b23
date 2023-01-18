@@ -7,7 +7,7 @@ This course aims to equip students with some of the concepts and skills relevant
 #### Course Survey
 
 If you are taking the class, please fill this out by the first day of class (Jan 18th):
-https://forms.gle/un4731Na28jA7yPk6
+[https://forms.gle/un4731Na28jA7yPk6](https://forms.gle/un4731Na28jA7yPk6)
 
 ### Overall Flow of the Class
 
