@@ -9,6 +9,8 @@ layout: page
 
 cbb752 (at) gersteinlab.org
 
+(Please use this in preference to mailing individually the TFs or the instructors.)
+
 ### Instructor-in-Charge
 
 | Name | Abbr | Office | Email |
