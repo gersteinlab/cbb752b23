@@ -9,8 +9,10 @@ layout: page
 
 | Session | Time | Location | Note |
 | --- | --- | --- | --- |
-| Section 1 | 10:00-11:00 AM | BASS405 | &nbsp; |
-| Section 2 | 1:00-2:00 PM  | BASS405 | &nbsp; |
+| Section 1 | Thurs 1:00-2:00 PM | YSB352 | &nbsp; |
+| Section 2 | Fri 10:00-11:00 AM  | BASS405 | &nbsp; ||
+| Section 3 | Fri 10:00-11:00 AM | YSB352 | &nbsp; |
+| Section 4 | Fri 1:00-2:00 PM  | YSB352 | &nbsp; |
 
 ### Format
 
@@ -41,7 +43,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 1, 1/26 or 1/27, Virtual (Zoom) for both sessions (First Discussion Sessions)
+### Session 1, 1/26 or 1/27
 
 #### Topic
 * Next-Gen Sequencing and database
@@ -52,7 +54,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 2, 2/2 or 2/3, BASS405 for both sessions
+### Session 2, 2/2 or 2/3
 
 #### Topic
 * Proteomics
@@ -63,7 +65,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 3, 2/9 or 2/10, BASS405 for both sessions
+### Session 3, 2/9 or 2/10
 
 #### Topic
 * Debate I
@@ -77,7 +79,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 4, 2/16 or 2/17, BASS405 for both sessions
+### Session 4, 2/16 or 2/17
 
 #### Topic
 Debate II - Cancer incidence
@@ -94,7 +96,7 @@ The following two are short comments on the above paper. You should read these c
 
 ---
 
-### Session 5, 2/23 or 2/24, BASS405 for both sessions
+### Session 5, 2/23 or 2/24
 
 #### Topic
 * Single Cell
@@ -106,7 +108,7 @@ The following two are short comments on the above paper. You should read these c
 
 ---
 
-### Session 6, 3/2 or 3/3, BASS405 for both sessions
+### Session 6, 3/2 or 3/3
 
 
 #### Topic
@@ -120,7 +122,7 @@ Additional Topics: Digital Phenotyping/Biosensors and Privacy
 
 ---
 
-### Session 7, 3/30 or 3/31, BASS405 for both sessions
+### Session 7, 3/30 or 3/31
 
 
 #### Topic
@@ -134,7 +136,7 @@ Additional Topics: Digital Phenotyping/Biosensors and Privacy
 
 ---
 
-### Session 8, 4/6 or 4/7, BASS405 for both sessions
+### Session 8, 4/6 or 4/7
 
 #### Topic
 * Deep learning II
@@ -145,7 +147,7 @@ Additional Topics: Digital Phenotyping/Biosensors and Privacy
 
 ---
 
-### Session 9, 4/13 or 4/14, BASS405 for both sessions
+### Session 9, 4/13 or 4/14
 
 #### Topic
 * Protein structure and biophysics
@@ -156,7 +158,7 @@ Additional Topics: Digital Phenotyping/Biosensors and Privacy
 * 
 ---
 
-### Session 10, 4/20 or 4/21, BASS405 for both sessions
+### Session 10, 4/20 or 4/21
 
 #### Topic
 * Final Project Presentations
