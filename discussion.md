@@ -10,7 +10,7 @@ layout: page
 | Session | Time | Location | Note |
 | --- | --- | --- | --- |
 | Section 1 | Thurs 1:00-2:00 PM | YSB352 | &nbsp; |
-| Section 2 | Fri 10:00-11:00 AM  | BASS405 | &nbsp; ||
+| Section 2 | Fri 10:00-11:00 AM  | BASS405 | &nbsp; |
 | Section 3 | Fri 10:00-11:00 AM | YSB352 | &nbsp; |
 | Section 4 | Fri 1:00-2:00 PM  | YSB352 | &nbsp; |
 
