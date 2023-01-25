@@ -48,7 +48,8 @@ Please see [last year's syllabus](http://cbb752b22.gersteinlab.org/syllabus) (wi
 ### Lecture Slide Pack
 
 See also additional readings for each topic: [Additional Readings](https://docs.google.com/document/d/1L7p4fv3XzMvzzTPIa4EFo6YD9UabBDuOBWKGjcxe5hw/edit)
-                                                |
+
+
 | #    | Topic                                                     | PDF                                                                                       | PPT                                                                                        | Youtube (2021)                       | MPEG (2021)                                                                                                                                                      |
 | ---- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 23i1 | Introduction to Biomedical Data Science                   | [x](http://files2.gersteinlab.org/public-docs/2023/01.19/23i1--cbb752-MG-spr23-intro.pdf) | [x](http://files2.gersteinlab.org/public-docs/2023/01.19/23i1--cbb752-MG-spr23-intro.pptx) | [I1](https://youtu.be/0B9BYt5bV84)   | [I1](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-1feb21.01-intro-lect.onweb.wo2faces.mp4)                       |
