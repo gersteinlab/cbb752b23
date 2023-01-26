@@ -25,7 +25,13 @@ If you are taking the class, please fill this out by the first day of class (Jan
 
 ### Discussion Section
 
-- F 10:00-11:00 AM or F 1:00-2:00 PM, BASS405
+| Session | Time | Location | 
+| --- | --- | --- | 
+| Section 1 | Thurs 1:00-2:00 PM | YSB352 |
+| Section 2 | Fri 10:00-11:00 AM  | BASS405 | 
+| Section 3 | Fri 10:00-11:00 AM | YSB352 | 
+| Section 4 | Fri 1:00-2:00 PM  | YSB352 |
+
 
 
 ## Different headings for this class (5 variants)
