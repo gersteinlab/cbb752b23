@@ -117,7 +117,7 @@ Additional Topics: Digital Phenotyping/Biosensors and Privacy
 #### Reading Assignment
 
 * Digital Phenotyping Technology for a New Science of Behavior [[Link]](http://files2.gersteinlab.org/public-docs/2023/01.18/jama_insel_2017_vp_170119.pdf)
-* Toward clinical digital phenotyping: a timely opportunity to consider purpose, quality, and safety [[Link]](https://www.nature.com/articles/s41746-019-0166-1)
+* Emerging phenotyping strategies will advance our understanding of psychiatric genetics [[Link]](https://www.nature.com/articles/s41593-020-0609-7)
 * Contact Tracing Mobile Apps for COVID-19: Privacy Considerations and Related Trade-offs [[Link]](https://arxiv.org/pdf/2003.11511.pdf)
 
 ---
