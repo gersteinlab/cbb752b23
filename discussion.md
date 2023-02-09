@@ -112,7 +112,6 @@ The following two are short comments on the above paper. You should read these c
 
 #### Topic
 * Single Cell
-* TF lecture (DB)
 
 #### Reading Assignment
 * Temporal modelling using single-cell transcriptomics [[Link]](https://www.nature.com/articles/s41576-021-00444-7)
@@ -137,7 +136,6 @@ Additional Topics: Digital Phenotyping/Biosensors and Privacy
 
 #### Topic
 * Deep learning I
-* TF lecture (YC)
 
 #### Reading Assignment
 * A primer on deep learning in genomics [[PDF]](https://www.nature.com/articles/s41588-018-0295-5.pdf)
