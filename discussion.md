@@ -98,6 +98,18 @@ The following two are short comments on the above paper. You should read these c
 
 ### Session 5, 2/23 or 2/24
 
+#### Topic 
+* Review Session for quiz
+
+#### Reading Assignment
+* none
+
+
+---
+
+
+### Session 6, 3/2 or 3/3
+
 #### Topic
 * Single Cell
 * TF lecture (DB)
@@ -108,8 +120,7 @@ The following two are short comments on the above paper. You should read these c
 
 ---
 
-### Session 6, 3/2 or 3/3
-
+### Session 7, 3/30 or 3/31
 
 #### Topic
 Additional Topics: Digital Phenotyping/Biosensors and Privacy
@@ -122,11 +133,10 @@ Additional Topics: Digital Phenotyping/Biosensors and Privacy
 
 ---
 
-### Session 7, 3/30 or 3/31
-
+### Session 8, 4/6 or 4/7
 
 #### Topic
-* Deep learning for genomics
+* Deep learning I
 * TF lecture (YC)
 
 #### Reading Assignment
@@ -136,7 +146,8 @@ Additional Topics: Digital Phenotyping/Biosensors and Privacy
 
 ---
 
-### Session 8, 4/6 or 4/7
+### Session 9, 4/13 or 4/14
+
 
 #### Topic
 * Deep learning II
@@ -147,7 +158,7 @@ Additional Topics: Digital Phenotyping/Biosensors and Privacy
 
 ---
 
-### Session 9, 4/13 or 4/14
+### Session 10, 4/20 or 4/21
 
 #### Topic
 * Protein structure and biophysics
@@ -158,7 +169,7 @@ Additional Topics: Digital Phenotyping/Biosensors and Privacy
 * 
 ---
 
-### Session 10, 4/20 or 4/21
+### Session 11, 4/27 or 4/28
 
 #### Topic
 * Final Project Presentations
