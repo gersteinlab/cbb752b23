@@ -17,10 +17,10 @@ Please see [last year's syllabus](http://cbb752b22.gersteinlab.org/syllabus) (wi
 | 1/25 | DATA 2 - Genomics II                                                                           | 23d2                | 22d2                                                             |         |
 | 1/30 | DATA 3 - Proteomics I                                                                          | 23d3                | 22d3                                                             |         |
 | 2/1  | DATA 4 - Proteomics II                                                                         | 23d4                | 22d4                                                             |         |
-| 2/6  | MINING 1 - Personal Genomes + Seq. Comparison + Multi-seq Alignment                            |                     | 22i2a, 22m3, 22m4                                                |         |
-| 2/8  | MINING 2 - Fast Alignment + Variant Calling (incl. a focused section on SVs)                   |                     | 22m5,22m6a,22m6b                                                 |         |
+| 2/6  | MINING 1 - Personal Genomes + Seq. Comparison + Multi-seq Alignment                            | 23i2a, 23m3, 23m4   | 22i2a, 22m3, 22m4                                                |         |
+| 2/8  | MINING 2 - Fast Alignment + Variant Calling (incl. a focused section on SVs)                   | 23m5,23m6a          | 22m5,22m6a,22m6b                                                 |         |
 | 2/13 | MINING 3 - Basic Multi-Omics Supervised Mining #1                                              |                     | 22m6b,22m7,22m8a                                                 |         |
-| 2/15 | MINING 4 - Supervised Mining #1 + Unsupervised Mining #1 + + [[EN privacy]]                    |                     | 22m8a,22m8b,22m8c,22m9a                                          |         |
+| 2/15 | MINING 4 - Supervised Mining #1 + Unsupervised Mining #1                                       |                     | 22m8a,22m8b,22m8c,22m9a                                          |         |
 | 2/20 | MINING 5 - Unsupervised Mining #2 + Network Analysis                                           |                     | 22m9a,22m9b,22m9c,22m9d                                          |         |
 | 2/22 | DATA 5 - Knowledge Representation & Databases                                                  |                     | 22d5                                                             |         |
 | 2/27 | Quiz on 1st Half                                                                               |                     |                                                                  |         |
