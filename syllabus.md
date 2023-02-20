@@ -12,7 +12,7 @@ Please see [last year's syllabus](http://cbb752b22.gersteinlab.org/syllabus) (wi
 | ---- | ---------------------------------------------------------------------------- | ----------------------- | ---------------------------------------------------------------- | ------- |
 | 1/17 | \*YALE\* Spring term classes begin, 8.20 a.m.                                |                         |                                                                  |         |
 |      |                                                                              |                         |                                                                  |
-| 1/18 | Introduction                                                                 | 23i1                    | 22i1                                                             |         |
+| 1/18 | Introduction                                                                 | 23i1                    | <span style="color:blue">22i1<br></span>                         |         |
 | 1/23 | DATA 1 - Genomics I                                                          | 23d1                    | 22d1                                                             |         |
 | 1/25 | DATA 2 - Genomics II                                                         | 23d2                    | 22d2                                                             |         |
 | 1/30 | DATA 3 - Proteomics I                                                        | 23d3                    | 22d3                                                             |         |
@@ -33,7 +33,7 @@ Please see [last year's syllabus](http://cbb752b22.gersteinlab.org/syllabus) (wi
 |      |                                                                              |                         |                                                                  |
 | 3/27 | TOPICS 3 - Deep Learning Fundamentals                                        |                         | 22m12a                                                           |         |
 | 3/29 | TOPICS 4 - Deep Learning Fundamentals (continues)                            |                         | 22m12b                                                           |         |
-| 4/3  | TOPICS 5 - Practical Machine Learning + Sensor Data Analysis                 |                         |                                                                  |         |
+| 4/3  | TOPICS 5 - Practical Machine Learning + Biosensor Data Analysis              |                         |                                                                  |         |
 | 4/5  | MODELING 1 - Protein Simulation I                                            |                         | 22s1                                                             |         |
 | 4/10 | MODELING 2 - Protein Simulation II                                           |                         | 22s1, 22s2                                                       |         |
 | 4/12 | MODELING 3 - Protein Simulation III                                          |                         | 22s2, 22s3                                                       |         |
@@ -44,6 +44,7 @@ Please see [last year's syllabus](http://cbb752b22.gersteinlab.org/syllabus) (wi
 | 4/28 | \*YALE\* Classes end; Reading period begins                                  |                         |                                                                  |         |
 | 5/4  | \*YALE\* Final examinations begin                                            |                         |                                                                  |         |
 | 5/10 | \*YALE\* Final examinations end                                              |                         |                                                                  |         |
+
 
 ### Lecture Slide Pack
 
