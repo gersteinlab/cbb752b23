@@ -9,6 +9,7 @@ layout: page
 Please see [last year's syllabus](http://cbb752b22.gersteinlab.org/syllabus) (with slide packs at the bottom) for previews for this year’s lectures, which will be slightly different. For this year, an updated slide pack will be posted after the lecture. (If it is substantially different from '22, an updated video will also be posted.) Video recordings for this year's lectures can be found in the Media Library tab in Canvas.
 
 
+<html>
 <table dir="ltr" style="table-layout:fixed;font-size:10pt;font-family:arial,sans,sans-serif;width:0px;border-collapse:collapse;border:none" cellspacing="0" cellpadding="0" border="1">
   <thead>
     <tr style="height:57px;">
@@ -258,6 +259,9 @@ Please see [last year's syllabus](http://cbb752b22.gersteinlab.org/syllabus) (wi
     </tr>
   </tbody>
 </table>
+
+</html>
+
 ### Lecture Slide Pack
 
 See also additional readings for each topic: [Additional Readings](https://docs.google.com/document/d/1L7p4fv3XzMvzzTPIa4EFo6YD9UabBDuOBWKGjcxe5hw/edit)
