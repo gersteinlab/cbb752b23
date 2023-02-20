@@ -12,15 +12,15 @@ Please see [last year's syllabus](http://cbb752b22.gersteinlab.org/syllabus) (wi
 | ---- | ---------------------------------------------------------------------------- | ----------------------- | ---------------------------------------------------------------- | ------- |
 | 1/17 | \*YALE\* Spring term classes begin, 8.20 a.m.                                |                         |                                                                  |         |
 |      |                                                                              |                         |                                                                  |
-| 1/18 | Introduction                                                                 | 23i1                    | <span style="color:blue">22i1<br></span>                         |         |
-| 1/23 | DATA 1 - Genomics I                                                          | 23d1                    | 22d1                                                             |         |
-| 1/25 | DATA 2 - Genomics II                                                         | 23d2                    | 22d2                                                             |         |
-| 1/30 | DATA 3 - Proteomics I                                                        | 23d3                    | 22d3                                                             |         |
-| 2/1  | DATA 4 - Proteomics II                                                       | 23d4                    | 22d4                                                             |         |
-| 2/6  | MINING 1 - Personal Genomes + Seq. Comparison + Multi-seq Alignment          | 23i2a, 23m3, 23m4       | 22i2a, 22m3, 22m4                                                |         |
-| 2/8  | MINING 2 - Fast Alignment + Variant Calling (incl. a focused section on SVs) | 23m5,23m6a              | 22m5,22m6a,22m6b                                                 |         |
-| 2/13 | MINING 3 - Basic Multi-Omics Supervised Mining #1                            | 23m6b,23m7,23m8a        | 22m6b,22m7,22m8a                                                 |         |
-| 2/15 | MINING 4 - Supervised Mining #2 + Unsupervised Mining #1                     | 23m8b,23m8c,23m9a,23m9c | 22m8a,22m8b,22m8c,22m9a                                          |         |
+| 1/18 | Introduction                                                                 | 23i1                    | <span style="color:silver">22i1</span>                           |         |
+| 1/23 | DATA 1 - Genomics I                                                          | 23d1                    | <span style="color:silver">22d1</span>                           |         |
+| 1/25 | DATA 2 - Genomics II                                                         | 23d2                    | <span style="color:silver">22d2</span>                           |         |
+| 1/30 | DATA 3 - Proteomics I                                                        | 23d3                    | <span style="color:silver">22d3</span>                           |         |
+| 2/1  | DATA 4 - Proteomics II                                                       | 23d4                    | <span style="color:silver">22d4</span>                           |         |
+| 2/6  | MINING 1 - Personal Genomes + Seq. Comparison + Multi-seq Alignment          | 23i2a, 23m3, 23m4       | <span style="color:silver">22i2a, 22m3, 22m4</span>              |         |
+| 2/8  | MINING 2 - Fast Alignment + Variant Calling (incl. a focused section on SVs) | 23m5,23m6a              | <span style="color:silver">22m5,22m6a,22m6b</span>               |         |
+| 2/13 | MINING 3 - Basic Multi-Omics Supervised Mining #1                            | 23m6b,23m7,23m8a        | <span style="color:silver">22m6b,22m7,22m8a</span>               |         |
+| 2/15 | MINING 4 - Supervised Mining #2 + Unsupervised Mining #1                     | 23m8b,23m8c,23m9a,23m9c | <span style="color:silver">22m8a,22m8b,22m8c,22m9a</span>        |         |
 | 2/20 | DATA 5 - Knowledge Representation & Databases                                |                         | 22d5                                                             |         |
 | 2/22 | MINING 5 - Unsupervised Mining #2 + Single-Cell Analysis                     | 23m9d, 23m9e            | 22m9d                                                            |         |
 | 2/27 | Quiz on 1st Half                                                             |                         |                                                                  |         |
