@@ -8,259 +8,42 @@ layout: page
 
 Please see [last year's syllabus](http://cbb752b22.gersteinlab.org/syllabus) (with slide packs at the bottom) for previews for this year’s lectures, which will be slightly different. For this year, an updated slide pack will be posted after the lecture. (If it is substantially different from '22, an updated video will also be posted.) Video recordings for this year's lectures can be found in the Media Library tab in Canvas.
 
-
-<html>
-<table dir="ltr" style="table-layout:fixed;font-size:10pt;font-family:arial,sans,sans-serif;width:0px;border-collapse:collapse;border:none" cellspacing="0" cellpadding="0" border="1">
-  <thead>
-    <tr style="height:57px;">
-      <th>Date</th>
-      <th>Topic</th>
-      <th>This year’s lecture</th>
-      <th><a class="in-cell-link" href="http://cbb752b22.gersteinlab.org/syllabus" target="_blank">Last year’s lecture</a></th>
-      <th>Comment</th>
-    </tr>
-  </thead><colgroup><col width="59"><col width="644"><col width="221"><col width="203"><col width="100"></colgroup>
-  <tbody>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:44943}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">1/17</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:3;white-space:clip;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;*YALE* Spring term classes begin, 8.20 a.m.&quot;}">*YALE* Spring term classes begin, 8.20 a.m.</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#1c4587;" rowspan="1" colspan="2"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:44944}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">1/18</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#4a86e8;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:3;white-space:clip;color:#000000;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Introduction&quot;}">Introduction</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;text-align:center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;23i1&quot;}">23i1</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;font-family:arial;font-weight:normal;color:#d9d9d9;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;22i1&quot;}">22i1</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:44949}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">1/23</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#ffd966;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:3;white-space:clip;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;DATA 1 - Genomics I&quot;}">DATA 1 - Genomics I</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:3;white-space:clip;text-align:center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;23d1&quot;}">23d1</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;font-family:arial;font-weight:normal;color:#d9d9d9;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;22d1&quot;}">22d1</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:44951}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">1/25</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#ffd966;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:3;white-space:clip;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;DATA 2 - Genomics II&quot;}">DATA 2 - Genomics II</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:3;white-space:clip;text-align:center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;23d2&quot;}">23d2</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;font-family:arial;font-weight:normal;color:#d9d9d9;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;22d2&quot;}">22d2</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#ffffff;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:44956}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">1/30</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#f6b26b;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:3;white-space:clip;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;DATA 3 - Proteomics I&quot;}">DATA 3 - Proteomics I</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:3;white-space:clip;text-align:center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;23d3&quot;}">23d3</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;font-family:arial;font-weight:normal;color:#d9d9d9;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;22d3&quot;}">22d3</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#ffffff;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:44958}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">2/1</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#f6b26b;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:3;white-space:clip;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;DATA 4 - Proteomics II&quot;}">DATA 4 - Proteomics II</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:3;white-space:clip;text-align:center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;23d4&quot;}">23d4</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;font-family:arial;font-weight:normal;color:#d9d9d9;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;22d4&quot;}">22d4</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;background-color:#ffffff;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:44963}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">2/6</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;background-color:#4a86e8;font-family:Helvetica Neue;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;MINING 1 - Personal Genomes + Seq. Comparison + Multi-seq Alignment &quot;}">MINING 1 - Personal Genomes + Seq. Comparison + Multi-seq Alignment </td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;font-family:arial;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;23i2a, 23m3, 23m4&quot;}">23i2a, 23m3, 23m4</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;font-family:arial;font-weight:normal;color:#d9d9d9;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;22i2a, 22m3, 22m4&quot;}">22i2a, 22m3, 22m4</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#ffffff;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:44965}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">2/8</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;background-color:#4a86e8;font-family:Helvetica Neue;font-weight:normal;color:#000000;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;MINING 2 - Fast Alignment + Variant Calling (incl. a focused section on SVs)&quot;}">MINING 2 - Fast Alignment + Variant Calling (incl. a focused section on SVs)</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;font-family:arial;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;23m5,23m6a&quot;}">23m5,23m6a</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;font-family:arial;font-weight:normal;color:#d9d9d9;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;22m5,22m6a,22m6b&quot;}">22m5,22m6a,22m6b</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#ffffff;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:44970}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">2/13</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;background-color:#4a86e8;font-family:Helvetica Neue;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;MINING 3 - Basic Multi-Omics Supervised Mining #1&quot;}">MINING 3 - Basic Multi-Omics Supervised Mining #1</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;font-family:arial;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;23m6b,23m7,23m8a&quot;}">23m6b,23m7,23m8a</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;font-family:arial;font-weight:normal;color:#d9d9d9;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;22m6b,22m7,22m8a&quot;}">22m6b,22m7,22m8a</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#ffffff;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:44972}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">2/15</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;background-color:#4a86e8;font-family:Helvetica Neue;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;MINING 4 - Supervised Mining #2 + Unsupervised Mining #1 &quot;}">MINING 4 - Supervised Mining #2 + Unsupervised Mining #1 </td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;font-family:arial;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;23m8b,23m8c,23m9a,23m9c&quot;}">23m8b,23m8c,23m9a,23m9c</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;font-family:arial;font-weight:normal;color:#d9d9d9;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;22m8a,22m8b,22m8c,22m9a&quot;}">22m8a,22m8b,22m8c,22m9a</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#ffffff;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:44977}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">2/20</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#e06666;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:3;white-space:clip;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;DATA 5 - Knowledge Representation &amp; Databases&quot;}">DATA 5 - Knowledge Representation &amp; Databases</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;font-family:arial;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;22d5&quot;}">22d5</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#ffffff;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:44979}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">2/22</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;background-color:#4a86e8;font-family:Helvetica Neue;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;MINING 5 - Unsupervised Mining #2 + Single-Cell Analysis &quot;}">MINING 5 - Unsupervised Mining #2 + Single-Cell Analysis </td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;wrap-strategy:3;white-space:clip;text-align:center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;23m9d, 23m9e&quot;}">23m9d, 23m9e</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;font-family:arial;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;22m9d&quot;}">22m9d</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#ffffff;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:44984}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">2/27</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;background-color:#93c47d;font-family:Helvetica Neue;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Quiz on 1st Half&quot;}">Quiz on 1st Half</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#ffffff;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:44986}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">3/1</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#4a86e8;font-family:Helvetica Neue;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;MINING 6 - Single-Cell Analysis (continues) + Network Analysis &quot;}">MINING 6 - Single-Cell Analysis (continues) + Network Analysis </td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;font-family:arial;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;22m10a,22m10b,22m10c&quot;}">22m10a,22m10b,22m10c</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#ffffff;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:44991}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">3/6</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#4a86e8;font-family:Helvetica Neue;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TOPICS 1 - Network Analysis (continues) + Privacy&quot;}">TOPICS 1 - Network Analysis (continues) + Privacy</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;wrap-strategy:3;white-space:clip;text-align:center;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;font-family:arial;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;22t2, M10d&quot;}">22t2, M10d</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#ffffff;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:44993}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">3/8</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#4a86e8;font-family:Helvetica Neue;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TOPICS 2 - Personal Genomes (from an individual's perspective)  &quot;}">TOPICS 2 - Personal Genomes (from an individual's perspective)  </td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;wrap-strategy:3;white-space:clip;text-align:center;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;font-family:arial;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;22i2b&quot;}">22i2b</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:44995}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">3/10</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:3;white-space:clip;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Spring break begins&quot;}">Spring break begins</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:16px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#1c4587;" rowspan="1" colspan="2"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45012}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">3/27</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#efefef;font-family:Helvetica Neue;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TOPICS 3 - Deep Learning Fundamentals&quot;}">TOPICS 3 - Deep Learning Fundamentals</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;wrap-strategy:3;white-space:clip;text-align:center;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;22m12a&quot;}">22m12a</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45014}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">3/29</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#efefef;font-family:Helvetica Neue;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TOPICS 4 - Deep Learning Fundamentals (continues)&quot;}">TOPICS 4 - Deep Learning Fundamentals (continues)</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;text-align:center;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;22m12b&quot;}">22m12b</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45019}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">4/3</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#efefef;font-family:Helvetica Neue;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TOPICS 5 - Practical Machine Learning + Sensor Data Analysis &quot;}">TOPICS 5 - Practical Machine Learning + Sensor Data Analysis </td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45021}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">4/5</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#b4a7d6;font-family:Helvetica Neue;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;MODELING 1 - Protein Simulation I&quot;}">MODELING 1 - Protein Simulation I</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;font-family:arial;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;22s1&quot;}">22s1</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45026}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">4/10</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#b4a7d6;font-family:Helvetica Neue;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;MODELING 2 - Protein Simulation II&quot;}">MODELING 2 - Protein Simulation II</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;font-family:arial;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;22s1, 22s2&quot;}">22s1, 22s2</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45028}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">4/12</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#b4a7d6;font-family:Helvetica Neue;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;MODELING 3 - Protein Simulation III&quot;}">MODELING 3 - Protein Simulation III</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;font-family:arial;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;22s2, 22s3&quot;}">22s2, 22s3</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45033}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">4/17</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#b4a7d6;font-family:Helvetica Neue;font-weight:normal;color:#000000;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;MODELING 4 - Markov Models I&quot;}">MODELING 4 - Markov Models I</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;22s4&quot;}">22s4</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45035}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">4/19</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#b4a7d6;font-family:Helvetica Neue;font-weight:normal;color:#000000;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;MODELING 5 - Markov Models II&quot;}">MODELING 5 - Markov Models II</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;22s5&quot;}">22s5</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:bottom;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45040}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">4/24</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#93c47d;font-family:Helvetica Neue;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Quiz on 2nd Half&quot;}">Quiz on 2nd Half</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;wrap-strategy:3;white-space:clip;text-align:center;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45042}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">4/26</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;background-color:#93c47d;font-family:Helvetica Neue;font-weight:normal;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Final Presentations&quot;}">Final Presentations</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;wrap-strategy:3;white-space:clip;text-align:center;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;text-align:center;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45044}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">4/28</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:3;white-space:clip;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;*YALE* Classes end; Reading period begins&quot;}">*YALE* Classes end; Reading period begins</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45050}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">5/4</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:3;white-space:clip;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;*YALE* Final examinations begin&quot;}">*YALE* Final examinations begin</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;wrap-strategy:3;white-space:clip;text-align:center;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-    <tr style="height:17px;">
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45056}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;m\&quot;/\&quot;d&quot;,&quot;3&quot;:1}">5/10</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;font-family:Helvetica Neue;font-weight:normal;wrap-strategy:3;white-space:clip;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;*YALE* Final examinations end&quot;}">*YALE* Final examinations end</td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;wrap-strategy:3;white-space:clip;text-align:center;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;wrap-strategy:3;white-space:clip;text-align:center;"></td>
-      <td style="overflow:hidden;padding:0px 3px 0px 3px;vertical-align:middle;"></td>
-    </tr>
-  </tbody>
-</table>
-
-</html>
+| Date | Topic                                                                        | This year’s lecture     | [Last year’s lecture](http://cbb752b22.gersteinlab.org/syllabus) | Comment |
+| ---- | ---------------------------------------------------------------------------- | ----------------------- | ---------------------------------------------------------------- | ------- |
+| 1/17 | \*YALE\* Spring term classes begin, 8.20 a.m.                                |                         |                                                                  |         |
+|      |                                                                              |                         |                                                                  |
+| 1/18 | Introduction                                                                 | 23i1                    | 22i1                                                             |         |
+| 1/23 | DATA 1 - Genomics I                                                          | 23d1                    | 22d1                                                             |         |
+| 1/25 | DATA 2 - Genomics II                                                         | 23d2                    | 22d2                                                             |         |
+| 1/30 | DATA 3 - Proteomics I                                                        | 23d3                    | 22d3                                                             |         |
+| 2/1  | DATA 4 - Proteomics II                                                       | 23d4                    | 22d4                                                             |         |
+| 2/6  | MINING 1 - Personal Genomes + Seq. Comparison + Multi-seq Alignment          | 23i2a, 23m3, 23m4       | 22i2a, 22m3, 22m4                                                |         |
+| 2/8  | MINING 2 - Fast Alignment + Variant Calling (incl. a focused section on SVs) | 23m5,23m6a              | 22m5,22m6a,22m6b                                                 |         |
+| 2/13 | MINING 3 - Basic Multi-Omics Supervised Mining #1                            | 23m6b,23m7,23m8a        | 22m6b,22m7,22m8a                                                 |         |
+| 2/15 | MINING 4 - Supervised Mining #2 + Unsupervised Mining #1                     | 23m8b,23m8c,23m9a,23m9c | 22m8a,22m8b,22m8c,22m9a                                          |         |
+| 2/20 | DATA 5 - Knowledge Representation & Databases                                |                         | 22d5                                                             |         |
+| 2/22 | MINING 5 - Unsupervised Mining #2 + Single-Cell Analysis                     | 23m9d, 23m9e            | 22m9d                                                            |         |
+| 2/27 | Quiz on 1st Half                                                             |                         |                                                                  |         |
+| 3/1  | MINING 6 - Single-Cell Analysis (continues) + Network Analysis               |                         | 22m10a,22m10b,22m10c                                             |         |
+| 3/6  | TOPICS 1 - Network Analysis (continues) + Privacy                            |                         | 22t2, M10d                                                       |         |
+| 3/8  | TOPICS 2 - Personal Genomes (from an individual's perspective)               |                         | 22i2b                                                            |         |
+|      |                                                                              |                         |                                                                  |         |
+|      |                                                                              |                         |                                                                  |         |
+| 3/10 | Spring break begins                                                          |                         |                                                                  |         |
+|      |                                                                              |                         |                                                                  |
+| 3/27 | TOPICS 3 - Deep Learning Fundamentals                                        |                         | 22m12a                                                           |         |
+| 3/29 | TOPICS 4 - Deep Learning Fundamentals (continues)                            |                         | 22m12b                                                           |         |
+| 4/3  | TOPICS 5 - Practical Machine Learning + Sensor Data Analysis                 |                         |                                                                  |         |
+| 4/5  | MODELING 1 - Protein Simulation I                                            |                         | 22s1                                                             |         |
+| 4/10 | MODELING 2 - Protein Simulation II                                           |                         | 22s1, 22s2                                                       |         |
+| 4/12 | MODELING 3 - Protein Simulation III                                          |                         | 22s2, 22s3                                                       |         |
+| 4/17 | MODELING 4 - Markov Models I                                                 |                         | 22s4                                                             |         |
+| 4/19 | MODELING 5 - Markov Models II                                                |                         | 22s5                                                             |         |
+| 4/24 | Quiz on 2nd Half                                                             |                         |                                                                  |         |
+| 4/26 | Final Presentations                                                          |                         |                                                                  |         |
+| 4/28 | \*YALE\* Classes end; Reading period begins                                  |                         |                                                                  |         |
+| 5/4  | \*YALE\* Final examinations begin                                            |                         |                                                                  |         |
+| 5/10 | \*YALE\* Final examinations end                                              |                         |                                                                  |         |
 
 ### Lecture Slide Pack
 
