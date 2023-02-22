@@ -21,8 +21,8 @@ Please see [last year's syllabus](http://cbb752b22.gersteinlab.org/syllabus) (wi
 | 2/8  | MINING 2 - Fast Alignment + Variant Calling (incl. a focused section on SVs) | 23m5,23m6a              | <span style="color:silver">22m5,22m6a,22m6b</span>               |         |
 | 2/13 | MINING 3 - Basic Multi-Omics Supervised Mining #1                            | 23m6b,23m7,23m8a        | <span style="color:silver">22m6b,22m7,22m8a</span>               |         |
 | 2/15 | MINING 4 - Supervised Mining #2 + Unsupervised Mining #1                     | 23m8b,23m8c,23m9a,23m9c | <span style="color:silver">22m8a,22m8b,22m8c,22m9a</span>        |         |
-| 2/20 | DATA 5 - Knowledge Representation & Databases                                | \`                      | <span style="color:silver">22d5</span>                           |         |
-| 2/22 | MINING 5 - Unsupervised Mining #2 + Single-Cell Analysis                     | 23m9d, 23m9e            | 22m9d                                                            |         |
+| 2/20 | DATA 5 - Knowledge Representation & Databases                                | 23d5                    | <span style="color:silver">22d5</span>                           |         |
+| 2/22 | MINING 5 - Unsupervised Mining #2 + Single-Cell Analysis                     | 23m9d, 23m9e            | <span style="color:silver">22m9d</span>                          |         |
 | 2/27 | Quiz on 1st Half                                                             |                         |                                                                  |         |
 | 3/1  | TOPICS 1 - Single-Cell Analysis (continues) + Privacy                        |                         | 22t2                                                             |         |
 | 3/6  | TOPICS 2 - Network Analysis                                                  |                         | 22m10a,22m10b,22m10c,M10d                                        |         |
@@ -44,7 +44,6 @@ Please see [last year's syllabus](http://cbb752b22.gersteinlab.org/syllabus) (wi
 | 4/28 | \*YALE\* Classes end; Reading period begins                                  |                         |                                                                  |         |
 | 5/4  | \*YALE\* Final examinations begin                                            |                         |                                                                  |         |
 | 5/10 | \*YALE\* Final examinations end                                              |                         |                                                                  |         |
-
 
 ### Lecture Slide Pack
 
