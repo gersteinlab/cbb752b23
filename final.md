@@ -8,13 +8,13 @@ layout: page
 Download the final project description [here](http://files2.gersteinlab.org/public-docs/2023/03.08/cbb752b23_final.pdf).  
 See [here](https://docs.google.com/spreadsheets/d/12eF1q4HXe_D7Pig2947wOGnLPG8hf17inPpPseQwuFw/edit#gid=1373076059) for group assignments.
 
-Key Due Dates:
+**Key Due Dates**:
 
-**3-minute recorded presentations**: April 26th, 2023, Wed, in class
+* 3-minute recorded presentations: April 26th, 2023, Wed, in class
 
-**15-minute presentations in discussion**: April 27th and 28th, 2023 in discussion section 
+* 15-minute presentations in discussion: April 27th and 28th, 2023 in discussion section 
 
-**Written report and other deliverables**: May 9th, Tues, submission should be done in Canvas
+* Written report and other deliverables: May 9th, Tues, submission should be done in Canvas
 
 
 ### Zimmerome Project Summary
