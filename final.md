@@ -14,7 +14,7 @@ See [here](https://docs.google.com/spreadsheets/d/12eF1q4HXe_D7Pig2947wOGnLPG8hf
 
 * 15-minute presentations in discussion: April 27th and 28th, 2023 in discussion section 
 
-* Written report and other deliverables: May 9th, Tues, submission should be done in Canvas
+* Written report and other deliverables: May 7th, Tues, submission should be done in Canvas
 
 
 ### Zimmerome Project Summary
