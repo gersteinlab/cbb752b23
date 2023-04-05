@@ -10,4 +10,6 @@ Description of the homework: [URL](http://files2.gersteinlab.org/public-docs/202
 Supplementary files for programming version: [URL](http://files2.gersteinlab.org/public-docs/2023/02.06/HW1_cbb752b23_programming_supp_files.zip)
 
 # Homework 2
-TBD
+Due: Apr 26th, 11:59pm  
+Description of the homework: [URL](http://files2.gersteinlab.org/public-docs/2023/04.05/cbb752b23_hw2.pdf)  
+Supplementary files for programming version: [URL](http://files2.gersteinlab.org/public-docs/2023/04.05/cbb752b23_hw2.ipynb)
