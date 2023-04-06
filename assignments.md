@@ -11,5 +11,5 @@ Supplementary files for programming version: [URL](http://files2.gersteinlab.org
 
 # Homework 2
 Due: Apr 26th, 11:59pm  
-Description of the homework: [URL](http://files2.gersteinlab.org/public-docs/2023/04.05/cbb752b23_hw2.pdf)  
+Description of the homework: [URL](http://files2.gersteinlab.org/public-docs/2023/04.06/cbb752b23_hw2_v2.pdf)  
 Supplementary files for programming version: [URL](http://files.gersteinlab.org/public-docs/2023/04.06/cbb752b23_hw2_v2.ipynb)
