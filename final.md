@@ -5,7 +5,7 @@ layout: page
 
 ## Final Project
 
-Download the final project description [here](http://files2.gersteinlab.org/public-docs/2023/04.05/cbb752b23_final.pdf).  
+Download the final project description [here](http://files2.gersteinlab.org/public-docs/2023/04.07/cbb752b23_final_v2.pdf).  
 See [here](https://docs.google.com/spreadsheets/d/12eF1q4HXe_D7Pig2947wOGnLPG8hf17inPpPseQwuFw/edit#gid=1373076059) for group assignments.
 
 **Key Due Dates**:
